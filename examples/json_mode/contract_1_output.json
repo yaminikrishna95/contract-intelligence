@@ -1,0 +1,21 @@
+{
+  "agreement_type": "licensing",
+  "effective_date": "2012-08-05",
+  "parties": [
+    {
+      "name": "VERIFY SMART CORP",
+      "role": "Licensor"
+    },
+    {
+      "name": "ASSURED MOBILE TECHNOLOGIES LLC.",
+      "role": "Licensee"
+    }
+  ],
+  "term_length": "20 years",
+  "governing_law": "State of Nevada and federal laws of the United States",
+  "payment_terms": "Upfront payment of $100 upon execution, followed by installment payments of $10,000 (3 months), $40,000 (6 months), and $249,900 (12 months) from the effective date, plus 8,500,000 common shares within 30 days of the effective date. Additionally, a 2.5% royalty on gross sales derived from exploitation of the licensed IP, payable quarterly within 30 days following each calendar quarter end. Arrears bear interest at the Bank of America prime rate plus 1%.",
+  "termination_clauses": [
+    "License agreement terminates automatically at the end of the 20-year term specified in Section 1.",
+    "Royalty payments cease on a going-forward basis if the Licensor undergoes a change of control (direct or indirect beneficial ownership of more than 50% of voting securities)."
+  ]
+}

@@ -1,0 +1,543 @@
+THIS AGREEMENT dated for reference the 5th day of August, 2012.
+
+BETWEEN:
+
+          VERIFY SMART CORP, a corporation  existing under the laws of the State
+          of Nevada with its executive  office at ▇▇ ▇▇▇▇▇▇▇▇ ▇▇▇,  ▇▇▇▇▇▇,  ▇▇▇
+          ▇▇▇▇▇▇ ▇▇▇▇▇
+
+          (herein called "Licensor")
+
+AND:
+
+          ASSURED  MOBILE  TECHNOLOGIES  LLC., a limited  liability  corporation
+          existing  under  the laws of the State of  Nevada  with its  executive
+          office at ▇▇▇▇ ▇▇▇▇▇ ▇▇▇▇▇ ▇▇▇▇., ▇▇▇▇▇ ▇▇▇▇▇, ▇▇▇▇▇▇▇ ▇▇▇▇▇
+
+          (herein called "Licensee")
+
+WHEREAS:
+
+A. The Licensor  owns certain  software and  intellectual  property,  called the
+"System and Method for Verifying a users  Identity in electronic  Transactions",
+embodied in Patent Application Serial No. PCT2007/001639 (the "VERIFY PATENT").
+
+B. The Licensor and the Licensee wish to enter into a license  agreement whereby
+the  Licensor  will grant to the  Licensee an exclusive  worldwide  license,  to
+exploit  the  Verify  Patent in all  fields of use for a period of 20 years (the
+"Patent LICENSE");
+
+C. The  Licensor has agreed to grant  Licensee  the License  under the terms and
+conditions as set forth in this License Agreement.
+
+NOW THEREFORE in  consideration  of the premises and the  respective  covenants,
+agreements  representations,  warranties  and  indemnities of the parties herein
+contained  and for  other  good and  valuable  consideration  (the  receipt  and
+sufficiency of which is hereby  acknowledged)  the parties  hereto  covenant and
+agree as follows:
+
+1.   DEFINED TERMS
+
+1.1  For the purposes of this Agreement,  unless the context otherwise requires,
+     the  following  terms will have the  respective  meanings set out below and
+     grammatical variations of such terms will have corresponding meanings:
+
+     (a)  "Affiliate"  has the meaning given to that term in the  Securities Act
+          of 1933, as amended,  and the Rules and  Regulations of the Securities
+          and Exchange Commission promulgated thereunder;
+
+     (b)  "Associate"  has the meaning given to that term in the  Securities Act
+          of 1933, as amended,  and the Rules and  Regulations of the Securities
+          and Exchange Commission promulgated thereunder;
+
+     (c)  "Business  Day"  means  any day  which is not a  Saturday,  Sunday  or
+          statutory holiday in Nevada;
+
+     (d)  "Effective  Date" means the later of the date first  written  above or
+          the  date of the  last  signature  completing  the  execution  of this
+          Agreement;
+
+     (e)  "Gross Sales" means the  aggregate of all sums actually  received from
+          all third party sources by Licensee,  by any affiliate of Licensee, or
+          by any authorized entity acting on Licensee's  behalf,  which sums are
+
+          derived  from the  applicable  exploitation  of the Licensed IP. There
+          shall be excluded from the Gross Sales the following:
+
+          (i)  Any sums received and thereafter  refunded,  and if any such sums
+               shall have  theretofore  been taken into account,  then an amount
+               equal to the sum refunded  shall be  eliminated  from  subsequent
+               receipts;
+
+          (ii) Any withholding,  sales tax,  consumption tax or other applicable
+               taxes collected in respect of the sales;
+
+          (iii)Any and all sales which are refundable  until earned or forfeited
+               (but all  non-refundable  advances or advances  which are subject
+               only to  delivery  or the  passage of time shall be  included  in
+               Gross Sales); and
+
+          (iv) Any  payments  of Gross  Sales  payable to any non  Affiliate  of
+               Licensee.
+
+     (f)  "Licensed IP" means the Verify Patent and all intellectual property of
+          the Licensor related thereto;
+
+     (g)  "Verify  Patent"  means the "System  and Method for  Verifying a users
+          Identity in electronic  Transactions" patented technology described in
+          Schedule 1 hereto and  represented  by Patent  Application  Serial No.
+          PCT2007/001639
+
+     (h)  "Currency.  Unless  otherwise  indicated,  all dollar  amounts in this
+          License Agreement are expressed in United States funds.
+
+1.2  Sections  and  Headings.  The  division  of  this  License  Agreement  into
+     Articles,  sections and  subsections  and the insertion of headings are for
+     convenience  of reference  only and will not affect the  interpretation  of
+     this License Agreement.  Unless otherwise indicated,  any reference in this
+     License Agreement to an Article, section,  subsection or Schedule refers to
+     the specified Article, section or subsection of or Schedule to this License
+     Agreement.
+
+1.3  Number, Gender and Persons. In this License Agreement,  words importing the
+     singular  number  only  will  include  the  plural  and vice  versa,  words
+     importing gender will include all genders and words importing  persons will
+     include  individuals,  corporations,  partnerships,  associations,  trusts,
+     unincorporated  organizations,  governmental  bodies  and  other  legal  or
+     business entities of any kind whatsoever.
+
+1.4  Accounting  Principles.  Except as otherwise stated,  any reference in this
+     License  Agreement to generally  accepted  accounting  principles refers to
+     generally accepted accounting  principles that have been established in the
+     United States of America, including those approved from time to time by the
+     American  Institute of Certified  Public  Accountants or any successor body
+     thereto.
+
+1.5  Entire Agreement.  This License Agreement  constitutes the entire agreement
+     between  the  parties  with  respect  to  the  subject  matter  hereof  and
+     supersedes  all  prior   agreements,   understandings,   negotiations   and
+     discussions,  whether written or oral. There are no conditions,  covenants,
+     agreements,  representations,  warranties or other  provisions,  express or
+     implied, collateral, statutory or otherwise, relating to the subject matter
+     hereof except as herein provided.
+
+1.6  Time of Essence. Time will be of the essence of this License Agreement.
+
+1.7  Applicable Law. This License  Agreement will be construed,  interpreted and
+     enforced in accordance  with, and the respective  rights and obligations of
+     the parties  will be  governed  by, the laws of the State of Nevada and the
+     federal  laws  of  United  States  applicable   therein,   and  each  party
+     irrevocably and unconditionally  submits to the non-exclusive  jurisdiction
+     of the courts of such state and all courts  competent to hear appeals there
+     from and waives, so far as is legally possible, its right to have any legal
+     action relating to this License Agreement tried by a jury.
+
+                                       2
+
+1.8  Amendments  and Waivers.  No  amendment or waiver of any  provision of this
+     License  Agreement  will be binding on either party unless  consented to in
+     writing by such party. No waiver of any provision of this License Agreement
+     will  constitute  a waiver  of any  other  provision,  nor will any  waiver
+     constitute a continuing waiver unless otherwise provided.
+
+1.9  Schedules.  The  following  Schedules are attached to and form part of this
+     License Agreement:  All terms defined in the body of this License Agreement
+     will have the same meaning in the Schedule attached hereto.
+
+     Schedule 1 - Description of Patent
+
+2.   GRANT OF LICENSE
+
+2.1  The Licensor  hereby grants to the Licensee,  effective as of the Effective
+     Date and for a period of 20 years,  an exclusive  worldwide  license to use
+     and exploit the Licensed IP.
+
+2.2  Licensee may assign or sublicense  the rights granted under this license in
+     whole or in part, in its sole discretion.
+
+2.3  The  Licensee  agrees to assist the  Licensor  in  recording  this  License
+     Agreement with appropriate  government  authorities where such recording is
+     required by law or  regulation  or where such  recording  is  permitted  or
+     desired by the Licensor.
+
+2.4  The Licensor shall not continue to use the Licensed IP for its business and
+     shall  not sell or agree to sell all or any  portion  of the  Licensed  IP,
+     other than as set out in Section 5.
+
+3.   OWNERSHIP
+
+3.1  Licensee  acknowledges  and agrees  that,  as between  the  parties to this
+     License  Agreement and subject to the rights and licenses  granted  herein,
+     Licensor is, and at all times shall remain, the sole and exclusive owner of
+     all right, title and interest, throughout the world, in and to all Licensed
+     IP,  and any  copies  of the  Licensed  IP,  whether  made on or  behalf of
+     Licensor or Licensee.
+
+4.   PURCHASE PRICE
+
+4.1  In  consideration  of the license granted to Licensee in above Section 2.1,
+     Licensee shall pay to Licensor the following  purchase price (the "Purchase
+     Price"):
+
+          *    $100 upon execution of this Agreement;
+
+          *    $10,000 within three (3) months of the Effective Date;
+
+          *    $40,000 within 6 months of the Effective Date;
+
+          *    $249,900 within 12 months of the Effective Date; and
+
+          *    8,500,000  common shares in the capital stock of Licensee  within
+               30 days of the Effective Date.
+
+     Any cash  component of the Purchase Price in arrears shall bear interest at
+     a variable rate equal to the prime rate publicly  announcend by the Bank of
+     America from time to time as its prime rate plus one (1) percent.  Interest
+     shall  commence  accruing  on the date  that the  relevant  portion  of the
+     Purchase  Price  becomes in arrears and shall be computed on the basis of a
+     365 day year and to the actual number of days elapsed.
+
+4.2  As additional consideration, Licensee shall pay to Licensor a royalty equal
+     to 2.5  percent of the Gross Sales  derived  from the  exploitation  of the
+     Licensed IP (the "ROYALTY").
+
+                                       3
+
+4.3  The Royalty shall be payable  within thirty (30) days  following the end of
+     the then-current  calendar quarter. All payments to be made hereunder shall
+     be made  in  United  States  dollars.  Payments  originating  in any  other
+     currency  shall be converted  to United  States  dollars  using the rate of
+     exchange as published by Bank of America on the date such payment is due.
+
+4.4      The Royalty payable  hereunder shall cease to accrue and terminate on a
+         going  forward  basis in the event that  Licensor  enters  into any any
+         agreement,  indenture, instrument or arrangement that results, directly
+         or  indirectly,  in a change of Control of Licensor.  "Control"  means,
+         with respect to Licensor,  direct or indirect,  beneficial ownership of
+         more than 50% of the  voting  securities  of  Licensor,  including  any
+         securities  which are voting only upon the  occurrence of a contingency
+         where such contingency has occurred and is continuing;
+
+5.   RIGHT OF FIRST PURCHASE
+
+5.1  The  Licensor  shall give the  Licensee a first right of  purchase  for the
+     Verify Patent, for so long as this License Agreement is in effect.
+
+5.2  Licensor shall notify  Licensee prior to any sale by Licensor of the Verify
+     Patent to any third party (an "ROFP Event").
+
+5.3  The right of first purchase may be exercised by the Licensee within 30 days
+     following notice of a ROFP Event by notifying the Licensor in writing.
+
+6.   TERMINATION AND EXTENSION
+
+6.1  Except as  otherwise  provided,  this  License  Agreement  shall  terminate
+     automatically at the end of the term specified in Section 1.
+
+7.   INDEMNIFICATION, REMEDIES, SURVIVAL
+
+7.1  For the purposes of this  Section 7 the terms "LOSS" and "LOSSES"  mean any
+     and all demands, claims, actions or causes of action, assessments,  losses,
+     damages,  liabilities,  costs, and expenses,  including without limitation,
+     interest, penalties, fines and reasonable attorneys,  accountants and other
+     professional fees and expenses,  but excluding any indirect,  consequential
+     or punitive damages suffered by Licensor or Licensee  including damages for
+     lost profits or lost business opportunities.
+
+7.2  Agreement of Licensor to Indemnify
+
+     (a)  Licensor will indemnify, defend, and hold harmless, to the full extent
+          of the law,  for a period of three years from the  termination  of the
+          License Agreement,  the Licensee and its shareholders  from,  against,
+          and in respect of any and all Losses  asserted  against,  relating to,
+          imposed  upon,  or incurred by the  Licensee and its  shareholders  by
+          reason of, resulting from, based upon or arising out of:
+
+          (i)  the breach by  Licensor  of any  representation  or  warranty  of
+               Licensor contained in or made pursuant to this License Agreement,
+               any  Licensor  document or any  certificate  or other  instrument
+               delivered pursuant to this License Agreement; or
+
+          (ii) the breach or  partial  breach by  Licensor  of any  covenant  or
+               agreement  of  Licensor  made  in or  pursuant  to  this  License
+               Agreement,  any  Licensor  document or any  certificate  or other
+               instrument delivered pursuant to this License Agreement.
+
+                                       4
+
+7.3  Agreement of Licensee to Indemnify
+
+     (a)  Licensee will indemnify, defend, and hold harmless, to the full extent
+          of the law, for a period of three years from the  termination  of this
+          License Agreement,  the Licensor from, against, for, and in respect of
+          any and all Losses  asserted  against,  relating to,  imposed upon, or
+          incurred  by  Licensor  by reason of,  resulting  from,  based upon or
+          arising out of:
+
+          (i)  the breach by  Licensee  of any  representation  or  warranty  of
+               Licensee contained in or made pursuant to this License Agreement,
+               any  Licensee  document or any  certificate  or other  instrument
+               delivered pursuant to this License Agreement; or
+
+          (ii) the breach or  partial  breach by  Licensee  of any  covenant  or
+               agreement of Licensee made in or pursuant to this Agreement,  any
+               Licensee   document  or  any  certificate  or  other   instrument
+               delivered pursuant to this License Agreement.
+
+8.   REPRESENTATIONS AND WARRANTIES OF THE LICENSOR
+
+8.1  The Licensor represents and warrants to the Licensee,  with the intent that
+     the Licensee will rely thereon in entering into this License  Agreement and
+     in concluding the transactions contemplated hereby, as follows:
+
+     (a)  Licensor  warrants  that to the best of its  knowledge  the use of the
+          Licensed IP as  intended  through  this  License  Agreement,  does not
+          infringe upon the rights of third parties;
+
+     (b)  Licensor warrants that to the best of its knowledge the Licensed IP is
+          valid,  maintained and  enforceable  towards third parties  worldwide,
+          other than France,  Iran or Russia,  and that the Licensed IP shall be
+          properly maintained during the term of this License Agreement.
+
+     (c)  the  execution  and  delivery  of  this  License   Agreement  and  the
+          completion of the transactions  contemplated hereby have been duly and
+          validly  authorized by all necessary  limited liability company action
+          on the part of the Licensor,  and this License Agreement constitutes a
+          valid and binding obligation of the Licensor  enforceable  against the
+          Licensor in accordance  with its terms;  except as enforcement  may be
+          limited by bankruptcy,  insolvency and other laws affecting the rights
+          of  creditors  generally  and except that  equitable  remedies  may be
+          granted only in the discretion of a court of competent jurisdiction;
+
+     (d)  except as will be remedied by the consents,  approvals,  releases, and
+          discharges described in Schedule 2 - Consents attached hereto, neither
+          the  execution  and  delivery  of  this  License   Agreement  nor  the
+          performance of the Licensor's obligations hereunder will:
+
+          (i)  violate or constitute default under any order, decree,  judgment,
+               statute,  by-law, rule, regulation,  or restriction applicable to
+               the  Licensor,  the IP, or any contract,  agreement,  instrument,
+               covenant, mortgage, or security, to which the Licensor is a party
+               or which are binding upon the Licensor,
+
+          (ii) to the  knowledge of the  Licensor,  result in any fees,  duties,
+               taxes,  assessments,  penalties or other amounts  becoming due or
+               payable by the Licensee under any sales tax legislation. .
+
+          (iii)give rise to the creation or  imposition  of any  encumbrance  on
+               the IP,
+
+          (iv) violate  or  constitute   default  under  any  license,   permit,
+               approval, consent or authorization held by the Licensor, or
+
+          (v)  violate  or  trigger  any  liability  on behalf  of the  Licensee
+               pursuant to any legislation  governing the licensing of the IP by
+               the Licensor;
+
+                                       5
+
+     (e)  the Licensor owns and possesses and has good and  marketable  title to
+          the IP free and clear of all  encumbrances  of every  kind and  nature
+          whatsoever;
+
+     (f)  no person other than the Licensee has any written or oral agreement or
+          option or any  right or  privilege  (whether  by law,  pre-emptive  or
+          contractual)  capable  of  becoming  an  agreement  or option  for the
+          purchase or acquisition from the Licensor of any of the Licensed IP;
+
+     (g)  There are no actions, suits, proceedings, investigations,  complaints,
+          orders, directives, or notices of defect or noncompliance by or before
+          any court,  governmental or domestic  commission,  department,  board,
+          tribunal, or authority,  or administrative,  licensing,  or regulatory
+          agency,  body,  or  officer  issued,  pending,  or to the  best of the
+          Licensor's  knowledge  threatened against or affecting the Licensor or
+          in respect of the IP;
+
+     (h)  there is no requirement  applicable to the Licensor to make any filing
+          with,   give  any  notice  to  or  to  obtain  any  license,   permit,
+          certificate, registration,  authorization, consent or approval of, any
+          governmental  or  regulatory  authority  as a condition  to the lawful
+          consummation  of the  transactions  contemplated  by  this  Agreement,
+          except   for   the   filings,   notifications,    licenses,   permits,
+          certificates,  registrations,  consents  and  approvals  described  in
+          Schedule 2 - Consents,  or that relate  solely to the  identity of the
+          Licensee  or the nature of any  business  carried  on by the  Licensee
+          except for the  notifications,  consents  and  approvals  described in
+          Schedule 2 - Consents;
+
+9.   REPRESENTATIONS OF THE LICENSEE
+
+9.1  The Licensee  represents and warrants to the Licensor as follows,  with the
+     intent that the Licensor  will rely  thereon in entering  into this License
+     Agreement and in concluding the transactions contemplated hereby, that:
+
+     (a)  the Licensee is a corporation duly incorporated, validly existing, and
+          in good  standing  under the laws of the  State of Nevada  and has the
+          power,  authority,  and capacity to enter into this License  Agreement
+          and to carry out its terms;
+
+     (b)  the  execution  and  delivery  of  this  License   Agreement  and  the
+          completion of the transactions  contemplated  hereby has been duly and
+          validly  authorized by all necessary  corporate  action on the part of
+          the  Licensee,  and this  Agreement  constitutes  a valid and  binding
+          obligation  of  the  Licensee  enforceable  against  the  Licensee  in
+          accordance  with its terms;  except as  enforcement  may be limited by
+          bankruptcy,   insolvency  and  other  laws  affecting  the  rights  of
+          creditors  generally and except that equitable remedies may be granted
+          only in the discretion of a court of competent jurisdiction;
+
+     (c)  there is no requirement for the Licensee to make any filing with, give
+          any   notice  to  or  obtain   any   license,   permit,   certificate,
+          registration, authorization, consent or approval of, any government or
+          regulatory  authority as a condition to the lawful consummation of the
+          transactions contemplated by this License Agreement;
+
+     (d)  neither the execution  and delivery of this License  Agreement nor the
+          performance  of the Licensee's  obligations  hereunder will violate or
+          constitute  a default  under the  constating  documents,  by-laws,  or
+          articles  of the  Licensee,  any  order,  decree,  judgment,  statute,
+          by-law, rule,  regulation,  or restriction applicable to the Licensee,
+          or any contract, agreement, instrument, covenant, mortgage or security
+          to  which  the  Licensee  is a party  or which  are  binding  upon the
+          Licensee;
+
+10.  NON MERGER
+
+10.1 The representations,  warranties, covenants, and agreements of the Licensor
+     contained  herein and those  contained  in the  documents  and  instruments
+     delivered  pursuant  hereto or in  connection  herewith  will  survive  the
+     Closing Date and the term of this License  Agreement,  and  notwithstanding
+
+                                       6
+
+     the completion of the transactions  contemplated  hereby, the waiver of any
+     condition  contained  herein  (unless  such waiver  expressly  releases the
+     Licensor of such representation,  warranty, covenant, or agreement), or any
+     investigation by the Licensee, same will remain in full force and effect.
+
+10.2 The representations,  warranties, covenants, and agreements of the Licensee
+     contained  herein and those  contained  in the  documents  and  instruments
+     delivered  pursuant  hereto or in  connection  herewith  will  survive  the
+     Closing Date and the term of this License  Agreement,  and  notwithstanding
+     the completion of the transactions  contemplated  hereby, the waiver of any
+     condition  contained  herein  (unless  such waiver  expressly  releases the
+     Licensee of such representation,  warranty, covenant, or agreement), or any
+     investigation by the Licensor, same will remain in full force and effect.
+
+11.  FURTHER ASSURANCES
+
+11.1 From time to time subsequent to the Closing Date, the parties  covenant and
+     agree,  at the expense of the  requesting  party,  to promptly  execute and
+     deliver all such further  documents and instruments and do all such further
+     acts and things as may be required to carry out the full intent and meaning
+     of this Agreement and to effect the transactions contemplated hereby.
+
+12.  ASSIGNMENT
+
+12.1 This  Agreement  may not be assigned by any party hereto  without the prior
+     written consent of the other parties hereto.
+
+13.  SUCCESSORS AND ASSIGNS
+
+13.1 This Agreement will enure to the benefit of and be binding upon the parties
+     hereto and their respective successors and permitted assigns.
+
+14.  COUNTERPARTS
+
+14.1 This Agreement may be executed in several counterparts,  each of which will
+     be deemed to be an original and all of which will together  constitute  one
+     and the same instrument.
+
+15.  NOTICES
+
+15.1 Any notice  required or permitted to be given under this  Agreement will be
+     in writing  and may be given by personal  service or by prepaid  registered
+     mail,  and  addressed  to the proper  party or  transmitted  by  electronic
+     facsimile generating proof of receipt of transmission at the address of the
+     applicable party first stated above.
+
+16.  TENDER AND EXTENSIONS
+
+16.1 Tender may be made upon the Licensor or Licensee or upon the solicitors for
+     the Licensor or Licensee and such  solicitors  are expressly  authorized by
+     their respective clients to confirm extensions of the Closing Date.
+
+17.  REFERENCE DATE
+
+17.1 This  Agreement is dated for reference as of the date first above  written,
+     but will become  binding as of the date of  execution  and  delivery by all
+     parties  hereto and  subject to  compliance  with the terms and  conditions
+     hereof,  the transfer and possession of the Business  Assets will be deemed
+     to take effect as at the close of business on the Closing Date.  References
+     herein to the date of the  Agreement  or to the date hereof shall be deemed
+     to mean the date set forth in the preamble to this Agreement.
+
+                                       7
+
+IN WITNESS WHEREOF the parties have executed and delivered these presents on the
+dates indicated below.
+
+VERIFY SMART CORP.
+
+
+Per: /s/▇▇▇▇ ▇▇▇▇▇▇▇
+    --------------------------------
+    Authorized Signatory
+
+Dated: September 19, 2012
+
+ASSURED MOBILE TECHNOLOGIES LLC.
+
+
+Per: /s/▇▇▇▇▇▇ ▇▇▇▇▇▇▇▇▇
+    --------------------------------
+    Authorized Signatory
+
+Dated: September 19, 2012
+
+                                       8
+
+                                LIST OF SCHEDULES
+
+Schedule                           Description
+
+  1                           Description of Patent
+
+International
+Application Number   PCT/CA2007/001639
+
+South African
+Patent
+Application No.      2009/2149
+
+U.S. Patent
+Application No.      11/537,461 filed September 29, 2006
+
+International
+Filing Date:         14.09.2007
+
+Publication Date:    03.04.2008
+
+Inventors:           ▇▇▇▇▇▇, ▇▇▇▇▇▇▇
+
+Title:               (EN) A SYSTEM AND METHOD FOR VERIFYING A USER'S IDENTITY IN
+                     ELECTRONIC TRANSASCTIONS
+
+Abstract:            The invention  described  herein is a method and system for
+                     verifying  the  identity  of a user  by a  verifier  in the
+                     course of an electronic transaction. The invention provides
+                     a process  and a system for  blocking  an  account  until a
+                     verifier  completes  an identity  verification  process for
+                     verifying  the  identity  of  the  person   initiating  the
+                     transaction. The process comprises pre-enrolling the person
+                     and the person's personal communication device. Optionally,
+                     one or more  accounts are enrolled by flagging the accounts
+                     such  that   transactions  are  subject  to  user  identity
+                     verification.  At the time a transaction  is  initiated,  a
+                     verifier sends an identification verification request (IVR)
+                     to  the  portable   communication   device  of  the  person
+                     initiating  the  electronic  transaction.  The person  then
+                     verifies his/her identity by supplying a secure  identifier
+                     in response to the IVR. Optionally,  the person is asked to
+                     authorize  the   transaction   before  the  transaction  is
+                     accepted.

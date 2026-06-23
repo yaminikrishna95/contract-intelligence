@@ -1,0 +1,14 @@
+You are extracting structured data from a commercial contract.
+
+Read the contract below and call the `save_contract` tool with the extracted fields.
+
+Rules:
+- For agreement_type: choose the BEST FIT from the available categories. If the title is generic, infer the type from the body language (e.g., "Licensor"/"Licensee" → licensing).
+- Use "other" only when the contract truly doesn't fit any category.
+- For dates: convert to ISO format (YYYY-MM-DD) when possible.
+- For payment_terms: write a brief 1-2 sentence summary, not the full payment section.
+- For termination_clauses: list each distinct termination condition as a short summary.
+
+Contract:
+---
+{contract_text}

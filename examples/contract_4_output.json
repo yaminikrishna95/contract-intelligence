@@ -1,0 +1,21 @@
+{
+  "agreement_type": "licensing",
+  "effective_date": "2008-02-01",
+  "parties": [
+    {
+      "name": "PROGRESSIVE INT'L HOLDING CO., LTD.",
+      "role": "Contractor"
+    },
+    {
+      "name": "Ingen Technologies, Inc.",
+      "role": "Company"
+    }
+  ],
+  "term_length": "5 years",
+  "governing_law": "State of California",
+  "payment_terms": "Contractor purchases minimum 10,000 Oxyview units per month at tiered pricing, with all purchases prepaid and accompanied by purchase orders.",
+  "termination_clauses": [
+    "Termination by cause only with 30 days written notice from either party",
+    "Agreement continues for 5 years and may be extended only by express mutual agreement of both parties"
+  ]
+}

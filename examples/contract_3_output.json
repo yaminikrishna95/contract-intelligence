@@ -1,0 +1,20 @@
+{
+  "agreement_type": "employment",
+  "effective_date": "2013-06-01",
+  "parties": [
+    {
+      "name": "Synergy Resources Corporation",
+      "role": "Employer"
+    }
+  ],
+  "term_length": "3 years",
+  "governing_law": "State of Colorado",
+  "payment_terms": "Annual salary of $420,000 plus performance-based bonus of $100,000 for every 50 net wells producing commercial quantities of oil/gas (up to $300,000 maximum per 12-month period), plus benefits including health insurance, 401(k) contributions, eight weeks paid vacation annually, and expense reimbursement.",
+  "termination_clauses": [
+    "Automatic termination upon Employee's death, with compensation through end of month of death",
+    "Termination for disability if Employee unable to substantially perform duties for two consecutive months or four months aggregate in any 12-month period",
+    "Termination for cause including conviction of crime involving Company property or fraud, refusal to follow lawful Board directions, gross negligence significantly affecting business operations, or material breach not cured within 30 days of notice",
+    "Constructive termination if Employee resigns within 90 days of relocation demand exceeding 35 miles, material Board interference with duties, or Change of Control event",
+    "Termination by arbitrator determination that Company was not justified in terminating under disability or cause provisions"
+  ]
+}

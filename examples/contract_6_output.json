@@ -1,0 +1,31 @@
+{
+  "agreement_type": "lease",
+  "effective_date": "2010-12-01",
+  "parties": [
+    {
+      "name": "▇▇▇▇ ▇▇▇▇▇ ▇▇▇▇▇▇▇ LLC",
+      "role": "Landlord"
+    },
+    {
+      "name": "Competitive Technologies, Inc.",
+      "role": "Tenant"
+    }
+  ],
+  "term_length": "36 months",
+  "governing_law": "State of Connecticut",
+  "payment_terms": "Base rent payable monthly in advance at rates ranging from $22.00 to $24.00 per rentable square foot annually, plus an electrical inclusion charge of $2.75 per rentable square foot per annum, plus additional rent for operating expenses and taxes based on tenant's 9.27% share of increases over base year 2011.",
+  "termination_clauses": [
+    "Tenant default in payment of rent with 10 days' notice and termination",
+    "Tenant default in other obligations continuing for 30 days after written notice",
+    "Demised premises become vacant or deserted",
+    "Death or permanent disability of any natural person liable on guaranty",
+    "Execution or attachment issued against tenant not bonded or dismissed promptly",
+    "Landlord may terminate if building damaged in last 12 months of term",
+    "Landlord may terminate if demised premises rendered substantially untenantable by casualty",
+    "Landlord may terminate if building substantially damaged requiring restoration",
+    "Tenant insolvency, bankruptcy filing, or appointment of receiver not vacated within 90 days",
+    "Landlord may terminate lease with respect to portion proposed for sublease if tenant seeks to sublease less than substantially all premises",
+    "Landlord may terminate entire lease if tenant seeks to assign or sublease substantially all premises",
+    "Mortgagee rejection of lease within 20 days of receipt results in immediate termination"
+  ]
+}

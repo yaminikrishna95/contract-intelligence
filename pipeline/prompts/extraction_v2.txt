@@ -1,0 +1,22 @@
+You are extracting structured data from a commercial contract.
+
+Read the contract below and call the `save_contract` tool with the extracted fields.
+
+Rules:
+
+1. **Use null for missing data, never placeholder strings.** If any field is not specified in the contract, return JSON null. Never invent placeholder strings like "Unknown", "N/A", "Not specified", "<UNKNOWN>", "TBD", or any similar text. This applies to ALL fields (term_length, governing_law, parties.name, effective_date, etc.).
+
+2. **For agreement_type, choose the BEST FIT from the available categories.** If the title is generic, infer the type from body language (e.g., "Licensor"/"Licensee" → licensing). Use "other" when the contract is genuinely hybrid (e.g., a distribution agreement combining licensing AND purchasing obligations) — do NOT force it into a single category just because one party uses a single category's terminology.
+
+3. **For dates, convert to ISO format (YYYY-MM-DD).** Use the effective date, not the signature date.
+
+4. **For payment_terms, summarize the STRUCTURE, not the numbers.** Write 1-2 sentences describing the payment structure (e.g., "fixed monthly fee plus quarterly royalty", "milestone-based installments over 12 months", "lump sum at closing plus earnest money deposit"). Do NOT list specific dollar amounts or detailed payment schedules.
+
+5. **For termination_clauses, list each distinct termination condition as a short, separate summary.** Each list item should be one condition, summarized in ~1 sentence.
+
+6. **For parties, extract only named entities.** If a party's name is not specified in the contract (e.g., a blank placeholder like "[Employee Name]"), omit that party from the list rather than including a placeholder.
+
+Contract:
+---
+{contract_text}
+---

@@ -1,0 +1,1199 @@
+
+
+                               PURCHASE AGREEMENT
+
+                                     BETWEEN
+
+                           VANGUARD ENERGY CORPORATION
+
+                                       AND
+
+                              VAST EXPLORATION, LLC
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                TABLE OF CONTENTS
+                                                                           Page
+
+ARTICLE 1 Definitions........................................................1
+ARTICLE 2 Purchase And Sale Of The Interests; Consideration..................3
+ARTICLE 3 Actions of Seller Before Closing...................................3
+ARTICLE 4 Actions of Purchaser Before Closing................................5
+ARTICLE 5 Seller's Representations And Warranties............................5
+ARTICLE 6 Purchaser's Representations And Warranties.........................9
+ARTICLE 7 Conditions Precedent To The Obligations Of Purchaser...............9
+ARTICLE 8 Conditions Precedent To The Obligations Of Seller.................10
+ARTICLE 9 Actions Of Seller And Purchaser At The Closing....................11
+ARTICLE 10 Settlement Statement; Further Actions And Assurances.............12
+ARTICLE 11 Notices..........................................................14
+ARTICLE 12 Termination......................................................15
+ARTICLE 13 Interpreting This Agreement......................................16
+ARTICLE 14 Miscellaneous Provisions.........................................17
+
+                                List of Exhibits
+
+
+Exhibit A ................................................Description of Lands
+Exhibit B ...........................................................Inventory
+Exhibit C ...........................................Purchase Price Allocation
+Exhibit D ....................................Form of Instrument of Conveyance
+
+
+
+
+
+                             Index of Defined Terms
+
+Agreement..........................1       Lands..............................1
+Claim..............................2       Leases.............................1
+Closing Date.......................3       Noteholders........................4
+Contracts..........................1       NPI Interests......................2
+▇▇▇▇▇▇▇ Money......................3       Permitted Encumbrances.............2
+Effective Date.....................1       Purchase Price.....................3
+Exhibit............................2       Purchaser..........................1
+Gulf Fee Leases....................4       Seller.............................1
+Instrument of Conveyance..........12       Settlement Statement..............13
+Joint Operating Agreements.........1       Sunoco.............................7
+
+
+
+
+
+
+                               PURCHASE AGREEMENT
+
+THIS  PURCHASE  AGREEMENT  ("Agreement")  is  entered  into  by and  between  VE
+Corporation,  doing business as Vanguard Energy Corporation  ("Seller") and Vast
+Exploration, LLC ("Purchaser").  In consideration of the premises, covenants and
+agreements  herein  contained  and the actions  herein  recited to be performed,
+Seller and Purchaser agree as follows:
+
+                                   ARTICLE 1
+
+                                   Definitions
+
+The following defined terms have the meanings set forth in this Article 1. All
+Article and Section numbers used in this Agreement refer to Articles and
+Sections of this Agreement unless otherwise specifically described.
+
+1.1  "Effective  Date"  means  9:00  a.m.,  local  time at the  location  of the
+Interests, on April 1, 2014.
+
+1.2 "Interests" means:
+
+     (a)  Seller's  interest  in the  oil and gas  leases  and a like  undivided
+          interest in the estates created by the oil and gas leases described in
+          Exhibit A attached hereto (the "Leases"), insofar, and only insofar as
+          the Leases cover the lands described in Exhibit A (the "Lands");
+
+     (b)  Seller's interest in and to all fixtures and personal property located
+          on the Leases and Lands, including oil and gas ▇▇▇▇▇, injection ▇▇▇▇▇,
+          tanks, boilers,  pumps, wellheads and all other equipment used or held
+          for use on the Leases and the Lands,  including,  without  limitation,
+          the personal property and fixtures listed on Exhibit B;
+
+     (c)  Seller's  interest arising from or attributable to the joint operating
+          agreements  between Seller and any third party, as Operator,  or joint
+          operating agreements between Seller and any third party acting for and
+          on behalf of Seller as a contract operator  (collectively,  the "Joint
+          Operating  Agreements")  as well as  Seller's  interest  in all  other
+          agreements,  licenses, permits, easements and other contracts, whether
+          similar or dissimilar to the foregoing (the "Contracts"),  except that
+          the  term  "Contracts"  does not  include  any  agreements,  licenses,
+          permits,  easements  and other  contracts  less and  except any of the
+          foregoing that pertain exclusively to any existing ▇▇▇▇▇ on the Leases
+          and Lands which are owned wholly by a third party, which do not form a
+          part of the Interests,  and the term "Contracts" specifically includes
+          any seismic  licenses or other  rights to seismic data which Seller is
+          empowered to assign;
+
+     (d)  Seller's interest in the claim or chose in action described in ▇▇▇▇▇▇▇
+          ▇▇▇▇▇▇ dba C-Make  Production ▇. ▇▇▇▇▇▇ Drum, et al.,  Cause no 54443,
+
+                                       1
+
+
+          pending  in the 88th  District  Court of  ▇▇▇▇▇▇  County,  Texas  (the
+          "Claim") as well as any funds or monies held in escrow or suspense and
+          attributable to the Claim;
+
+     (e)  The rights and  interests  of  Vanguard  Net  Profits,  LLC to receive
+          payments or other rights in respect of production from or attributable
+          to any of the Leases or the Lands (the "NPI Interests");
+
+     (f)  The term  "Interests"  does  not  include,  and  Purchaser  shall  not
+          acquire,  any ▇▇▇▇▇  (whether  producing,  non-producing,  salt  water
+          injection  or  other   equipment  or  fixtures,   or  hydrocarbons  or
+          production  owned by third parties which may be located in whole or in
+          part on the Leases or the Lands and which are shared with  Seller,  it
+          being the  intention  of Seller to sell only its  rights,  titles  and
+          interests and not those of third parties.
+
+1.3 "Permitted Encumbrances" means:
+
+     (a)  Lessors' royalties;
+
+     (b)  Any overriding royalty interests, net profits interests, including the
+          NPI  Interests,  production  payments or other payments out of or with
+          respect  to  production  which  are of  record  on the  date  of  this
+          Agreement;
+
+     (c)  Sales  contracts  covering  hydrocarbons,  so long as the  same may be
+          cancelled on 60 days notice or less, without penalty;
+
+     (d)  liens  for  taxes  or  assessments  not due or not  delinquent  on the
+          Closing  Date;  (e)  Easements,  rights-of-way,  servitudes,  permits,
+          surface leases,  and other rights in respect of surface  operations on
+          or over  any of the  Leases  or  Lands,  which do not  interfere  with
+          current or proposed operations on the lease;
+
+     (f)  Operator's,  materialmen's,  mechanic's,  repairmen's or other similar
+          liens  and  charges   arising  in  the  ordinary  course  of  business
+          incidental to construction,  maintenance or operation of the Interests
+          that are either: do interfere with the operation,  value or use of the
+          Interests  or which are paid in the ordinary  course of business,  and
+          pursuant to which Seller is not in default.
+
+1.4 "Exhibit" means an Exhibit to this Agreement.
+
+1.5 Other terms are defined  elsewhere in this Agreement and for the purposes of
+this  Agreement,  those other terms have the  meanings  specified in those other
+portions unless the context requires otherwise.
+
+                                       2
+
+
+                                    ARTICLE 2
+
+                Purchase And Sale Of The Interests; Consideration
+
+2.1  Contemporaneously with the execution of this Agreement,  Purchaser has paid
+     Seller the amount of  $150,000.00,  as ▇▇▇▇▇▇▇ money and a deposit upon the
+     Purchase Price (the "▇▇▇▇▇▇▇ Money"), which shall be deposited with Charger
+     Title  Insurance  Agency,  Inc.,  having an  address of ▇▇▇ ▇▇▇▇ ▇▇▇ ▇▇▇▇▇,
+     ▇▇▇▇, ▇▇▇▇ ▇▇▇▇▇ ("Charger title"), pursuant to an escrow or like agreement
+     acceptable to both Seller and Purchaser.
+
+2.2  In reliance upon the  representations  and warranties of Seller,  Purchaser
+     agrees to buy the  Interests,  subject  to the other  terms and  provisions
+     hereof,  at the time,  date and  location  specified  in  Section  9.1 (the
+     "Closing Date"),  for the sum of  $5,500,000.00,  which sum, as adjusted in
+     accordance with the other  provisions of this Agreement,  is referred to as
+     the "Purchase  Price." The parties have agreed that the Purchase Price will
+     be allocated among the Interests as set forth on Exhibit C.
+
+ 2.3 The Purchase Price shall be paid or delivered to Seller at the time and in
+     the manner specified in Section 9.1.
+
+                                   ARTICLE 3
+
+                        Actions of Seller Before Closing
+
+3.1  Seller  shall,  or shall  cause  the  operators  under the  relevant  Joint
+     Operating Agreements to continue to operate the ▇▇▇▇▇ located on the Leases
+     on the Lands as they have  heretofore,  and otherwise  will, or will cause,
+     the  Interests  to be  developed,  maintained  and  operated  in a good and
+     workmanlike manner. Seller will not introduce any new method of management,
+     operation or  accounting  with  respect to the Leases or Lands  without the
+     prior approval of Purchaser.
+
+3.2  Seller shall not execute any AFEs for any new  operations  on the Leases or
+     the Lands,  without the prior  approval of the  Purchaser,  but will pay or
+     cause to be paid all costs and  expenses  incurred in  connection  with the
+     Interests;  provided, however, that nothing contained in this Section shall
+     prevent Seller from authorizing actions by an operator in the event life or
+     property is threatened.
+
+3.3  Seller shall seek, and use its reasonable  efforts,  to obtain the approval
+     of its shareholders to the transactions contemplated by this Agreement.
+
+3.4  Seller shall seek, and use its reasonable  efforts,  to obtain the approval
+     of any  parties  holding a lien  against  any of the Leases or the Lands on
+     account of one or more convertible notes (the "Noteholders"), and to obtain
+     a release of the same, which shall be delivered at the Closing.
+
+                                       3
+
+
+3.5  Seller shall seek, and use its reasonable  efforts,  to obtain a release of
+     any rights owned by the owners of the NPI  Interests,  and, if required,  a
+     re-conveyance  to  Seller  of any  rights  held  by the  owners  of the NPI
+     Interests.
+
+3.6  Seller shall seek, and use its reasonable  efforts,  to obtain the approval
+     or consent to a transfer of the rights in respect of the Leases  located in
+     the Champion ▇▇▇▇▇▇ Survey (the "Gulf Fee Lease").
+
+3.7  Seller shall not offer the  Interests  or any part of the  Interests to any
+     party,  and  shall  promptly  notify  Purchaser  of any  unsolicited  offer
+     received from any third party with respect to the Interests.
+
+3.8  Seller shall,  upon reasonable  notice and during its normal working hours,
+     make the following  records in its  possession  pertaining to the Interests
+     available  to  Purchaser  and its  authorized  representatives  at Seller's
+     offices for such inspection and copying,  at Purchaser's  sole expense,  as
+     Purchaser deems necessary,  and, if it has not already then done so, Seller
+     will deliver copies,  or where  available,  originals,  of those records to
+     Purchaser promptly after the Closing Date:
+
+     (a)  All title materials pertaining to the Interests;
+
+     (b)  All of the instruments creating the Leases and, if applicable: farmout
+          and farmin agreements, assignments, unitization, pooling and operating
+          agreements,  joint venture  agreements,  division and transfer orders,
+          mortgages,  deeds of trust, security agreements,  financing statements
+          and other instruments creating encumbrances,  liens or burdens and all
+          other contracts and documents affecting title to the Interests;
+
+     (c)  Evidence relating to any rentals, royalties, shut-in gas well payments
+          or other payments made under or with respect to the Leases. ;
+
+     (d)  Evidence relating to any ad valorem,  property,  production severance,
+          and  similar  taxes  and  assessments  based  on or  measured  by  the
+          ownership of property or the production of hydrocarbons or the receipt
+          of proceeds  therefrom on the Interests  for all periods  during which
+          the Seller owned a portion of the Interests;
+
+     (e)  Ownership maps and surveys  relating to the Leases and the Lands;  (f)
+          All lease  records  and data  sheets  relating  to the  Leases  and to
+          bonuses, rentals and royalties payable thereunder;
+
+     (g)  All agreements, leases, permits, easements, licenses and orders in any
+          way relating to the Interests;
+
+     (h)  All bonds and other policies of insurance relating to the operation of
+          the Interests; and
+
+                                       4
+
+
+     (i)  Reproducible masters or originals of all books, records,  information,
+          contracts and documents, engineering, geological and geophysical data,
+          reports  and maps  relating to the  Interests,  but only to the extent
+          that Seller may do so without violation of any seismic data license or
+          similar agreement.
+
+If this Agreement is terminated by Purchaser,  Purchaser  shall return to Seller
+all items which Seller has  delivered  to Purchaser in respect of the  Interests
+(or portion thereof) not purchased by Purchaser, and neither party will have any
+further obligation to the other in respect thereto.
+
+                                   ARTICLE 4
+
+                       Actions of Purchaser Before Closing
+
+4.1  To the extent any are required,  Purchaser  shall,  and use its  reasonable
+     efforts to obtain,  all  approvals  or consents  which may be required  for
+     Purchaser to consummate the transactions herein contemplated.
+
+4.2  Purchaser  shall have the right to review the  records and files of Seller,
+     and to make copies of the same, and to conduct any reviews or due diligence
+     reviews  that it may  desire in respect  of the  Interests,  and to request
+     information from Seller in respect of the same.
+
+                                   ARTICLE 5
+
+                     Seller's Representations And Warranties
+
+Seller  represents  and  warrants to and agrees with  Purchaser,  subject in all
+events to the  qualifications or limitations to or on such  representations  and
+warranties as are set out in this Article 3, that:
+
+5.1  The execution and delivery of this  Agreement and the  consummation  of the
+     transactions  contemplated  by this Agreement will not result in the breach
+     of any of the terms or conditions of nor result in the breach of any of the
+     terms or  conditions  of nor  constitute  a default  under the  Articles of
+     Incorporation nor the By-laws of Seller.
+
+5.2  Except for the approval of the Board of Directors of Seller, the consent of
+     the shareholders of Seller, the approval or consent of the Noteholders, the
+     approval  or consent of the owners of the NPI  Interests,  the  approval or
+     consent  of a transfer  of the rights in respect of the Gulf Fee Lease,  no
+     other approvals,  consents or authorizations to the execution, delivery and
+     performance of this Agreement and the transactions  contemplated hereby are
+     required for the execution and performance of this Agreement by Seller.
+
+5.3  To the best of Seller's  knowledge,  except as  described  in Section  5.2,
+     there are no liens, encumbrances or mortgages covering any of the Lands and
+     the ▇▇▇▇▇ thereon, and Seller is unaware of any rights in any third parties
+     which,  upon the passage of time,  would  permit the filing of any liens or
+     encumbrances on the Lands or ▇▇▇▇▇.
+
+                                       5
+
+
+5.4  The share of costs to be borne by  Seller  in  regard to each  Lease is set
+     forth on  Exhibit  A, and is  described  therein as the "GWI." The share of
+     hydrocarbons  that are  allocated  to Seller  after the  lessor's  share of
+     royalty  and any  overriding  royalty  has been  deducted  is set  forth on
+     Exhibit A, under the heading  "NRI." The amount of NRI set forth on Exhibit
+     A does not take into  account  any  amount  which is  allocated  to the NPI
+     Interests.
+
+5.5  Except  for  the  Claim  and  the   potential   claims   described  in  the
+     correspondence from Traton Operating Company dated March 7, 2014, copies of
+     which have been or will be furnished to Purchaser, Seller is unaware of any
+     demand letters, offset,  development or drainage letters or claims asserted
+     by any third party  (including,  but not limited to, a lessor  under any of
+     the  Leases) or  governmental  authority  against  Seller in respect of the
+     Leases or the production  therefrom or  attributable  thereto nor are there
+     any  suits,  actions,   claims,   investigations,   audits,   inquiries  or
+     proceedings,  threatened  or pending,  against  Seller in respect of taxes,
+     governmental  charges,  duties or  assessments,  nor are there any  matters
+     under  discussion  with  any  governmental  authority  relating  to  taxes,
+     governmental  charges,  duties,  assessments or requirements for refunds or
+     penalties or any claims for additional taxes, governmental charges, duties,
+     assessments or refunds or penalties asserted by any governmental  authority
+     affecting  the  Interests  or  the  production  therefrom  or  attributable
+     thereto.
+
+5.6  Seller  believes in good faith,  but does not represent  and warrant,  that
+     during the time that  Seller has  claimed to own  interests  in the Leases,
+     Seller's  purchaser  of  hydrocarbons  from  the  Leases,  Sunoco  Partners
+     Marketing & Terminals,  L.P.  ("Sunoco"),  has paid all royalties due under
+     the Leases or has  suspended  such royalty  payments in Sunoco's  financial
+     accounts  under title or division  order  conditions  determined  solely by
+     Sunoco to  justify  such  suspense,  and  during  the time that  Seller has
+     claimed to own interests in the Leases, Seller has not received any notice,
+     written or otherwise, from Sunoco that any party has claimed that royalties
+     are due and unpaid,  or that there are any other working  interest  owners,
+     other than C.F.O.,  Inc.,  that are entitled to payment with respect to the
+     sale of  Hydrocarbons.  To the Seller's  best  information,  Sunoco (or its
+     predecessor or predecessors) likewise paid, or justifiably  suspended,  all
+     royalties  due under  the  Leases  for the  period  of time  before  Seller
+     acquired any interest in the Leases, but Seller cannot and does not warrant
+     and represent  that that is the case.  Seller in good faith  believes,  but
+     does not represent  and warrant to  Purchaser,  that the Leases are in full
+     force and effect.
+
+5.7  Seller,  before Seller acquired the Leases,  conducted reviews of the title
+     to the Leases,  and made its commercially  reasonable efforts to verify the
+     quantum of interest to be acquired by it. With regard to the Lease referred
+     to as the "Coline Lease" on Exhibit A, Seller  reviewed the division orders
+     currently in place, and after submitting transfer orders to Sunoco,  Seller
+
+                                       6
+
+
+     has  received the proceeds of the sale of the quantum of interest set forth
+     on those division  orders.  Other than as disclosed in Section 5.5,  Seller
+     has not received any notice of any suits, actions, claims,  investigations,
+     audits,  inquiries  or  proceedings,  threatened  or  pending,  and  has no
+     knowledge of any suits, actions, claims, investigations,  audits, inquiries
+     or proceedings, threatened or pending.
+
+5.8  To the best of Seller's knowledge, none of the Interests is affected by any
+     agreement  or  arrangement  (including,  but not  limited  to, any  hedging
+     agreement,  take  or  pay,  gas  balancing,  pipeline  balancing  or  other
+     prepayment  agreement  or  production  payment,   other  than  the  alleged
+     production  payments  referred to in that certain Limited Title Report from
+     the ▇▇▇▇▇▇▇▇ Law Firm PLLC, dated June 24, 2010, which, as of the Effective
+     Date, requires Seller to deliver  hydrocarbons  produced from the Leases at
+     some future time without then or thereafter receiving full payment therefor
+     or at a specified price.
+
+5.9  To the best of Seller's  knowledge,  except for those consents or approvals
+     listed in Article 3 there are no consents  required  for Seller to transfer
+     and convey all or any portion of title to the Leases,  and,  except for the
+     rights  listed in  Article 3,  there are no rights in third  parties  which
+     would preclude Seller from  transferring all or any portion of title to the
+     Leases.
+
+5.10 Seller possesses all licenses, permits, certificates, orders, approvals and
+     authorizations  necessary from any governmental  entity having jurisdiction
+     to own and to operate  the  Interests  and to carry on its  business as now
+     conducted,  and Seller has not  received  any notice from any  governmental
+     entity  having  jurisdiction  that Seller  does not  possess any  licenses,
+     permits,  certificates,  orders,  approvals and authorizations necessary to
+     own the Interests and to carry on its business as now conducted.
+
+5.11 The information  furnished to Purchaser by Seller that Seller received from
+     its  predecessors in ownership of the Interests or from third party sources
+     (such  information  including,  but not limited to maps,  plats, well logs,
+     core  analyses and  sections,  production  data,  operating  expenses,  net
+     revenue interests and working interests, gas-condensate oil ratios, seismic
+     and geological data,  surface and subsurface maps, third party reversionary
+     rights, burdens and encumbrances),  is comprised of either the originals of
+     such information or true and correct copies of such information as received
+     by Seller and Seller did not  withhold  any  information  which if known by
+     Purchaser would have caused Purchaser to credit less reserves to the Leases
+     and the Lands or to change the  classification  of such  reserves,  and, to
+     Seller's knowledge, there have been no changes subsequent to the furnishing
+     of such  information to Purchaser that would affect the current accuracy or
+     completeness  of the  information  heretofore  furnished  Purchaser  in any
+     material respect.  To the best of Seller's  knowledge,  Seller has provided
+     copies of all of the foregoing to Purchaser, or has provided Purchaser with
+     access to the foregoing.
+
+                                       7
+
+
+5.12 Except as disclosed in Section 5.5, to the knowledge of Seller,  there have
+     been no claims,  demands or  allegations  that the  Interests,  or any part
+     thereof,   have  been   operated  in  violation  of  any  law  relating  to
+     environmental  conditions  and  industrial  hygiene,   including,   without
+     limitation,  the Resource  Conservation and Recovery Act of 1976, 42 U.S.C.
+     ▇▇.▇▇.   6901,  et  seq.,   the   Comprehensive   Environmental   Response,
+     Compensation  and  Liability Act of 1980, 42 U.S.C.  ▇▇.▇▇.  9601-9657,  as
+     amended by the Superfund  Amendments and  Reauthorization  Act of 1986, the
+     Hazardous Materials Transportation Act, 49 U.S.C. ▇▇.▇▇. 6901, et seq., the
+     Federal Water Pollution  Control Act, 33 U.S.C.  ▇▇.▇▇.  1251, et seq., the
+     Clean Air Act,  42 U.S.C.  ▇▇.▇▇.  741,  et seq.,  the Clean  Water Act, 33
+     U.S.C.  ss.  7401,  the Toxic  Substances  Control  Act,  15 U.S.C.  ▇▇.▇▇.
+     2601-2629,  the Safe Drinking Water Act, 42 U.S.C.  ▇▇.▇▇. 300F - 300J, and
+     all similar federal, state and local environmental statutes, ordinances and
+     the   regulations,   orders  and  decrees  now  or  hereafter   promulgated
+     thereunder.  Seller is not the operator of any of the Interests, but to the
+     knowledge  of  Seller,   all  operators  have  operated  their   respective
+     properties in accordance with laws relating to environmental conditions and
+     industrial  hygiene.   Purchaser  acknowledges  that  if  it  acquires  the
+     Interests,  it will acquire the Interests  subject to any claims or demands
+     that  allege a  breach  or  infraction  of any of the  laws  involving  the
+     environment,  including,  but not limited, to those listed in this Section,
+     whether or not the breach or infraction  occurred  before,  on or after the
+     Effective  Date,  and that  Purchaser  will hold Seller  harmless  from any
+     claims, demands or liabilities arising from any alleged or actual breach of
+     infraction of any laws involving the environment.
+
+5.13 Purchaser  acknowledges  and agrees that Seller has not made,  and does not
+     make, any warranty or representation,  express, implied or otherwise, as to
+     the accuracy or completeness of any data,  reports,  records,  projections,
+     information  or materials  now,  heretofore or hereafter  furnished or made
+     available to Purchaser in connection with this Agreement including, without
+     limitation,  pricing  assumptions,  or quality or quantity  of  hydrocarbon
+     reserves  (if any)  which  Seller  believes  might be  attributable  to the
+     Interests  or the  ability  or  potential  of the any of the  Interests  to
+     produce  hydrocarbons or the  environmental  condition of the properties or
+     any other matters  contained in the proprietary data or any other materials
+     furnished  or made  available  to  Purchaser.  Any and all  data,  records,
+     reports,  projections,  information and other  materials  (written or oral)
+     furnished  to  Purchaser  or  otherwise  made  available  or  disclosed  to
+     Purchaser were provided to Purchaser as a convenience  and shall not create
+     or give rise to any  liability of or against  Seller and any reliance on or
+     use of the same shall be at  Purchaser's  sole risk to the  maximum  extent
+     permitted by law.
+
+5.14 Seller is selling the  Interests  to  Purchaser  as is, where is - with all
+     faults  and  without  any  warranties  or  covenants  of title,  express or
+
+                                       8
+
+
+     implied, and without any representations  concerning title to the Interests
+     not  specifically  set forth in this  Article  5, and  notwithstanding  any
+     representation  of the GWI and the NRI,  as set forth in Exhibit A,  Seller
+     does not warrant any quantum of title.  In addition,  Purchaser will assume
+     all  responsibility  and liability for any  environmental  defects  whether
+     arising before, during or after the Effective Date.
+
+                                   ARTICLE 6
+
+                   Purchaser's Representations And Warranties
+
+Purchaser represents and warrants to and agrees with Seller that:
+
+6.1  By the Closing  Date,  the  execution,  delivery  and  performance  of this
+     Agreement  by  Purchaser   and  the   consummation   of  the   transactions
+     contemplated hereby will have been duly and validly authorized by the Board
+     of Directors of Purchaser.
+
+6.2  The execution and delivery of this  Agreement and the  consummation  of the
+     transactions  contemplated  by this Agreement will not result in the breach
+     of any of the terms or conditions of nor result in the breach of any of the
+     terms or  conditions  of nor  constitute  a default  under the  Articles of
+     Incorporation nor the By-laws of Purchaser.
+
+6.3  Purchaser will be, as of the Closing Date,  qualified to do business in the
+     State of Texas,  and, if Purchaser  desires to operate any of the Interests
+     for its own  account,  will be properly  qualified to do so by the Railroad
+     Commission of Texas.
+
+6.4  Purchaser  represents  and  acknowledges  that,  before  entering into this
+     Agreement,  Purchaser was advised by and has relied  solely on  Purchaser's
+     own legal, tax and other  professional  counsel  concerning this Agreement,
+     the Interests and the operations  conducted thereon.  Purchaser  represents
+     and  acknowledges  that  Purchaser is able to bear the economic risk of any
+     oil and gas investment Purchaser is obligated to or might choose to make in
+     the  Interests and that  Purchaser is capable of evaluating  the merits and
+     risks of  investments  in the Interests and the  operations to be conducted
+     thereon.  Purchaser represents and acknowledges that Purchaser is acquiring
+     an  interest  in the  Interests  for  Purchaser's  own  account and not for
+     distribution  or resale  in any  manner  that  would  violate  any state or
+     federal securities law, rule, regulation or order.
+
+                                   ARTICLE 7
+
+              Conditions Precedent To The Obligations Of Purchaser
+
+7.1  All obligations of Purchaser under Article 2 and Article 9 are subject,  at
+     Purchaser's  option,  to the fulfillment prior to or at the Closing Date of
+     each of the following conditions:
+
+     (a)  Each and every  representation  and warranty of Seller as set forth in
+          Article 5 of this Agreement  shall be true and accurate as of the date
+
+                                       9
+
+
+          when  made  and  shall  be  deemed  to be made  again at and as of the
+          Closing Date and shall then be true and accurate in all respects.
+
+     (b)  Seller shall have performed and complied with each and every covenant,
+          agreement and condition  required by this Agreement to be performed or
+          complied  with by Seller  prior to or at Closing;  provided,  however,
+          that if Seller has not  obtained  consents to assign in respect of the
+          Gulf Fee Lease as  provided in Section  3.6,  the failure of Seller to
+          obtain such consents shall not be deemed to be a breach of a covenant,
+          agreement or condition of this Agreement.
+
+     (c)  The Interests shall not have been materially and adversely affected as
+          of  the  Closing  Date  in any  way as a  result  of any  casualty  of
+          disaster,  accident,  labor  disputes,  exercise  of power of  eminent
+          domain or other governmental event or Act of God or the public enemy.
+
+     (d)  No suit,  action or other  proceeding  shall be pending or  threatened
+          before  any court or  governmental  agency  seeking  to  restrain,  to
+          prohibit or to obtain damages or other relief in connection  with this
+          Agreement or the consummation of the transactions contemplated hereby,
+          and  there  shall  have  been  no  investigation  or  inquiry  made or
+          commenced by any governmental agency in connection with this Agreement
+          or the transactions contemplated hereby.
+
+     (e)  Purchaser  shall have satisfied  itself that no instruments  have been
+          filed for record from and after the date  Purchaser's  examination  of
+          title  concluded  that  adversely  affects  the title of Seller to the
+          Leases and the Lands.
+
+                                    ARTICLE 8
+
+                Conditions Precedent To The Obligations Of Seller
+
+All obligations of Seller under Article 9 are subject,  at Seller's  option,  to
+the  fulfillment  prior  to or at the  Closing  Date of  each  of the  following
+conditions:
+
+8.1  Each  and  every  representation  and  warranty  of  Purchaser  under  this
+     Agreement  shall be true and  accurate in all  respects as of the date when
+     made and shall be deemed to be made  again and as of the  Closing  Date and
+     shall  then be true and  accurate  in all  respects,  except as to  changes
+     therein specifically contemplated by this Agreement.
+
+8.2  Purchaser  shall have performed and complied with each and every  covenant,
+     agreement  and  condition  required by this  Agreement  to be  performed or
+     complied with by it prior to or at Closing.
+
+8.3  No suit,  action or other  proceeding shall be pending or threatened by any
+     third party before any court or  governmental  agency  seeking to restrain,
+     prohibit  or  obtain  damages  or other  relief  in  connection  with  this
+     Agreement or the consummation of the transactions  contemplated hereby, and
+     there shall have been no  investigation or inquiry made or commenced by any
+     governmental  agency in connection with this Agreement or the  transactions
+     contemplated hereby.
+
+                                       10
+
+
+                                   ARTICLE 9
+
+                 Actions Of Seller And Purchaser At The Closing
+
+9.1  The Closing of the purchase and sale of the  Interests  shall take place as
+     soon as reasonably  practicable  after the date that this Agreement becomes
+     effective  as provided in Section  14.9,  but shall not be any earlier than
+     the later of: (1) 30 days from the date of the execution of this Agreement,
+     or (2) the date that Seller  obtains the  consent of its  shareholders,  as
+     provided in Section  5.2. The Closing  shall take place the time,  date and
+     place as Seller and Purchaser may agree upon in writing,  which the parties
+     shall  deliver to each other no later  than five days  before the  proposed
+     Closing Date.
+
+9.2  At the Closing, Seller shall execute,  acknowledge and deliver to Purchaser
+     an Assignment and Conveyance (the "Instrument of Conveyance")  covering all
+     of the  Interests  (other  than the  Claim),  substantially  in the form as
+     Exhibit  D,  which  Instrument  of  Conveyance  is  dated  as of and at the
+     Effective  Date.  Purchaser  shall be solely  responsible for recording the
+     Instrument of Conveyance in the ▇▇▇▇▇▇ County,  Texas, official records and
+     for the cost of the filing  fees of that  recordation.  With  regard to the
+     Claim, before the execution of this Agreement, Seller has communicated with
+     the attorney who is  overseeing  the defense of the Claim.  At the Closing,
+     Seller shall  provide  documentation  acceptable to Purchaser to the effect
+     that Purchaser will have an assignment of Seller's  rights in regard to the
+     Claim,  or the economic  equivalent of an assignment of Seller's  rights in
+     regard to the Claim,  which will include  Seller's rights to any funds held
+     in escrow or in suspense in regard to the Claim,  irrespective  of when the
+     funds may have been placed in escrow or in suspense,  Seller  agreeing that
+     it shall have no claim upon the amounts paid,  irrespective  of the date or
+     time when the amount was paid, or to which period of time it relates.
+
+9.3  Purchaser  recognizes that Seller is not the operator of the Interests.  In
+     regard to the  Interests  described on Exhibit A as the Coline  Lease,  the
+     Gulf Fee Lease and the Black Stone Minerals Lease,  the operator thereof is
+     C.F.O.,   Inc.,  and  Purchaser  will  succeed  to  Seller's  rights  as  a
+     non-operator.  With  regard to the  ▇▇▇▇▇▇▇  Leases,  Seller is the nominal
+     operator,  and the properties are operated pursuant to a contract operating
+     agreement  with  Traton  Operating  Company,  which  will  be  assigned  to
+     Purchaser pursuant to the Instrument of Conveyance.
+
+9.4  If requested by Purchaser,  at the Closing, Seller will execute one or more
+     letters in lieu of transfer orders, authorizing the purchaser of production
+     to remit the proceeds from the sale production to Purchaser.
+
+                                       11
+
+
+9.5  At the Closing,  Purchaser  shall deliver to the Seller the Purchase Price,
+     as adjusted if necessary  pursuant to Section 9.6 below by wire transfer to
+     an account  specified  by Seller,  and  Purchaser  and Seller  shall direct
+     Charger  Title  to  pay  the  same  to  Seller.  To  the  extent  that  any
+     documentation  is due to the party  holding the Escrow  Funds,  the parties
+     shall  execute the same and  transmit  it to the party  holding the ▇▇▇▇▇▇▇
+     Money.
+
+9.6  Ad valorem, property,  production,  severance, excise and similar taxes and
+     assessments  based on or  measured  by the  ownership  of  property  or the
+     production  of  hydrocarbons  or the receipt of proceeds  therefrom  on the
+     Interests (and not deducted by the purchaser of the hydrocarbon  production
+     from  the  proceeds  of  production)  shall be  prorated  been  Seller  and
+     Purchaser  as of the  Effective  Date,  and Seller shall be charged for all
+     such taxes and  assessments  on the Interests  based upon taxes for the tax
+     year  ending in 2013,  and shall be  deemed to be a final  accounting  with
+     regard to the same.
+
+9.7  If, by the Closing  Date,  Seller has not obtained the consent  required by
+     the terms of Section 3.6,  then the Gulf Fee Lease shall not be included in
+     the Instruments of Conveyance nor in the Joint Operating Agreement. In that
+     event,  the  obligations  and actions of the parties in respect of the Gulf
+     Fee  Lease as  applicable,  after  the  Closing  shall be  governed  by the
+     provisions of Section 10.4.
+
+                                   ARTICLE 10
+
+              Settlement Statement; Further Actions And Assurances
+
+10.1 Seller  shall  prepare and  deliver to  Purchaser  a  settlement  statement
+     ("Settlement  Statement")  no more than 60 days after the Closing  Date for
+     Purchaser's review and approval.  The Settlement  Statement shall set forth
+     the Purchase  Price and the tax  adjustment as provided in Section 9.6, and
+     shall  include  all  revenues  paid to Seller for the sale of  hydrocarbons
+     which occurred after the Effective  Date, but which were received by Seller
+     after the  Effective  Date. It shall also include all payments for invoices
+     received by Purchaser  after the Closing Date, and which were  attributable
+     to periods of time before the Effective Date.
+
+10.2 The Settlement Statement shall contain the following  adjustments,  as well
+     as any others that have been agreed by the parties:
+
+     (a)  All merchantable hydrocarbons associated with the Interests and stored
+          in tanks and vessels,  excluding  pipeline fill, will be gauged, as of
+          the Effective Date, to the bottom of the flange by the operator of the
+          Interests,  and the  amount  of crude  oil in the gun  barrels  on the
+          Leases  shall be  allocated  to Seller  and  Seller  shall  retain the
+          proceeds of the sale of the merchantable  hydrocarbons so gauged. With
+          respect to the  amount of crude oil in the gun  barrels,  the  parties
+
+                                       12
+
+
+          agree that for the purposes of settlement,  the same shall be equal to
+          635.7 barrels, and settlement for the same shall be made at the market
+          price  prevailing  for like  crude oil on the  Effective  Date and the
+          value thereof shall be allocated to Seller.
+
+     (b)  All monies, proceeds, receipts, credits and income attributable to the
+          Interests  for all periods of time after the  Effective  Date shall be
+          the sole property and  entitlement  of  Purchaser,  and, to the extent
+          received  by Seller,  Seller  shall  fully  disclose,  account for and
+          transmit  the same  promptly  to  Purchaser,  and to the extent not so
+          transmitted,  shall be accounted for in the Settlement  Statement by a
+          credit to Purchaser.
+
+     (c)  All monies, proceeds, receipts, credits and income attributable to the
+          Interests for all periods of time before the  Effective  Date shall be
+          the sole  property  and  entitlement  of  Seller,  and,  to the extent
+          received by Purchaser, Purchaser shall fully disclose, account for and
+          transmit  the  same  promptly  to  Seller,  and to the  extent  not so
+          transmitted,  shall be accounted for in the Settlement  Statement by a
+          credit to Seller.
+
+     (d)  The Settlement Statement shall include the sum of $50,000, which shall
+          be the amount  due to Seller in  respect  of the  Claim,  and shall be
+          accounted for in the Settlement Statement by a credit to Seller.
+
+     (e)  All  costs,  expenses,  disbursements,   obligations  and  liabilities
+          attributable  to the  Interests  for the  period of time  after to the
+          Effective Date,  regardless of when due or payable,  shall be the sole
+          obligation  of  Purchaser  and if  paid  by  Seller,  Purchaser  shall
+          promptly  reimburse  Seller for the same, and to the extent no so paid
+          by Purchaser  shall be accounted for in the Settlement  Statement by a
+          credit to Seller.
+
+     (f)  All  costs,  expenses,  disbursements,   obligations  and  liabilities
+          attributable  to the  Interests  for the period of time  before to the
+          Effective Date,  regardless of when due or payable,  shall be the sole
+          obligation of Seller and if paid by Purchaser,  Seller shall  promptly
+          reimburse  Purchaser  for the  same,  and to the  extent no so paid by
+          Seller shall be accounted for in the Settlement  Statement by a credit
+          to Purchaser.
+
+     (g)  After all  adjustments  and credits have been  agreed,  the party then
+          owing  funds to the other  shall make a payment to the other  party as
+          soon as the parties have agreed upon the Settlement Statement.
+
+     (h)  In addition to the Settlement  Statement  described above, the parties
+          may, if they elect,  exchange Settlement Statements 180 days after the
+          Closing Date, if they reasonably believe that further  adjustments may
+          then be necessary. If the parties elect to do so, the same adjustments
+          and payment requirements set forth in Sections 10.2(a) through 10.2(g)
+          shall apply as necessary.
+
+10.3 At any time or from time to time,  on and after the  Closing,  Seller shall
+     execute and deliver,  or cause to be executed and delivered,  to Purchaser,
+
+                                       13
+
+
+     all additional assignments,  consents,  endorsements,  documents,  transfer
+     orders  and  instruments  and take or cause to be taken  all  actions  that
+     Purchaser  may deem  necessary or desirable to vest or to confirm  title to
+     the Interests as contemplated herein and in the Instrument of Conveyance in
+     Purchaser and Seller shall assist  Purchaser in exercising  any rights with
+     respect  to the  Interests,  and  otherwise  to carry out the  intents  and
+     purposes of this Agreement.
+
+10.4 If, by the Closing Date,  Seller has not obtained the consents  required by
+     the terms of Section 3.6,  then after such time,  Seller  shall  diligently
+     continue to seek such consents. When the consents are obtained, then Seller
+     shall, as promptly thereafter as possible,  assign the appropriate interest
+     in and to the Gulf Fee Lease to Purchaser.  Purchaser may, but shall not be
+     obligated to, waive the  obligation to obtain such consent,  but the waiver
+     shall  not be  effective  unless a written  waiver  is in  effect  and both
+     parties have executed counterparts thereof, and Purchaser may condition its
+     waiver upon such requirements as it may desire. If Purchaser does not waive
+     the obligation to obtain the consent, by a written instrument, delivered on
+     or before August 1, 2014, then Seller's  obligation to seek the consents or
+     approvals shall be terminated,  but Seller shall repay Purchaser the amount
+     of $50,000.00 for the Gulf Fee Lease.
+
+                                   ARTICLE 11
+
+                                     Notices
+
+Except as  specifically  provided  otherwise in this  Agreement or an Exhibit or
+Schedule hereto, any notices, claims, requests, demands and other communications
+required or  permitted  to be given  hereunder  shall be in writing,  and may be
+given by  personal  delivery,  by courier,  by mail,  by  electronic  mail or by
+facsimile  machine  addressed  to the party to whom such notice is  directed.  A
+notice shall be effective as follows: if by personal delivery,  upon the receipt
+thereof;  if by courier  service,  upon receipt by the receiving  party from the
+courier  service;  if by mail,  three days after delivery  thereof to the postal
+authorities,  all  first  class  postage  pre  paid;  if by  electronic  mail or
+facsimile  machine,  upon  confirmation  by  the  transmitting  party  from  the
+receiving  party that such  electronic  mail or  facsimile  was  received.  Each
+party's  proper  address for the receipt of notices shall be as set forth below;
+provided,  that a party may change such address by giving notice  thereof to the
+other parties. The parties' addresses, for notice purposes, are as follows:
+
+           Seller's Address:
+
+                    Vanguard Energy Corporation
+
+                    ▇▇▇▇ ▇▇▇▇ ▇▇▇ ▇▇▇▇▇▇▇▇▇, ▇▇▇▇▇ ▇▇▇▇
+                    ▇▇▇▇▇▇▇, ▇▇▇▇▇ ▇▇▇▇▇
+
+                                       14
+
+
+                    (▇▇▇) ▇▇▇-▇▇▇▇
+                    Fax Number: (▇▇▇) ▇▇▇-▇▇▇▇
+                    E-mail: ▇▇▇▇▇▇▇▇@▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇.▇▇▇
+                    Attention: ▇▇. ▇▇▇▇▇▇ ▇. ▇▇▇▇▇▇▇
+
+           Purchaser's Address:
+
+                    Vast Exploration, LLC
+
+                    ▇▇▇ ▇▇▇▇ ▇▇▇▇▇▇ ▇▇▇▇▇ ▇▇▇▇
+                    ▇▇▇▇▇▇, ▇▇▇▇ ▇▇▇▇▇
+                    (▇▇▇) ▇▇▇-▇▇▇▇
+                    E-mail: ▇▇▇▇▇▇@▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇.▇▇▇
+                    Attention: ▇▇. ▇▇▇▇▇▇ ▇▇▇▇▇▇▇
+
+                                   ARTICLE 12
+
+                                   Termination
+
+12.1 This  Agreement  may be abandoned or terminated in writing on or before the
+     Closing  Date,  in which case,  Purchaser  and Seller shall direct  Charger
+     Title to return the ▇▇▇▇▇▇▇ Money to Purchaser:
+
+     (a)  by the agreement of Purchaser and Seller;
+
+     (b)  by either party if the Closing has not occurred by May 15, 2014;
+
+     (c)  by either party pursuant to the provisions of Section 12.2;
+
+     (d)  by Purchaser pursuant to Article 7;
+
+     (e)  by Purchaser,  if any of Seller's  representations  or warranties  are
+          materially in accurate,  regardless of whether Seller had knowledge of
+          the inaccuracy; or
+
+     (f)  by Seller pursuant to Article 8; provided that in the case of Seller's
+          terminating this Agreement pursuant to this Section 12.1(f), Purchaser
+          and Seller shall direct  Charger  Title to return the ▇▇▇▇▇▇▇ Money to
+          Seller.
+
+12.2 In addition, either Purchaser or Seller may terminate this Agreement at any
+     time prior to Closing by giving the other party written notice thereof if:
+
+     (a)  There is any material  breach of failure to perform by the other party
+          or of any of the warranties,  representations,  commitments, covenants
+          and conditions under this Agreement;
+
+     (b)  There  exists  any  material  error,  misstatement  or  omission  of a
+          material fact on the part of the other party which renders an exhibit,
+
+                                       15
+
+
+          representation of fact or document or schedule delivered in connection
+          herewith   misleading   and   materially   prejudicial  to  the  party
+          terminating this Agreement; or
+
+     (c)  The notice  provided by a party pursuant to the preceding  Sections of
+          this Section 12.2 shall clearly specify the material breach or failure
+          of  the   notified   party   to   perform   any  of  its   warranties,
+          representations,   commitments,   covenants  and  conditions,  or  the
+          material error, misstatement or omission of the notified party.
+
+12.3 If this  Agreement is abandoned or  terminated  as provided in this Article
+     12, then Charger Title shall return the ▇▇▇▇▇▇▇ Money to Purchaser,  unless
+     this Agreement is terminated by Seller pursuant to Section  12.1(f),  or by
+     reason of an action of  Purchaser as  specified  in Section  12.2,  and, if
+     terminated by Seller  pursuant to either or both of the specified  reasons,
+     Charger  Title  shall  then  return  the  ▇▇▇▇▇▇▇  Money  to  Seller.  Upon
+     termination,  neither party shall have any obligations to the other, except
+     as  provided  in this  Article  12 and those  portions  of Article 14 which
+     necessarily survive.
+
+                                   ARTICLE 13
+
+                           Interpreting This Agreement
+
+In this Agreement and the Exhibits, unless the context otherwise requires:
+
+     (a)  the singular number includes the plural number and vice versa;
+
+     (b)  reference to any person includes that person's  successors and assigns
+          but, if  applicable,  only if successors  and assigns are permitted by
+          this  Agreement,  and  reference to a person in a particular  capacity
+          excludes that person in any other capacity;
+
+     (c)  reference to any gender includes each other gender;
+
+     (d)  reference to any agreement  (including  this  Agreement),  document or
+          instrument means such agreement,  document or instrument as amended or
+          modified  (including any waiver or consent) and in effect from time to
+          time in  accordance  with the terms  thereof and, if  applicable,  the
+          terms hereof;
+
+     (e)  the word  "including" and its derivatives  means  "including,  but not
+          limited to," and corresponding derivative expressions;
+
+     (f)  with regard to the  determination of any period of time,  "from" means
+          "from and  including,"  "to" means "to but  excluding"  and  "through"
+          means "through and including;"
+
+                                       16
+
+
+     (g)  whenever the parties  have agreed that any  approval or consent  shall
+          not be  unreasonably  withheld,  such  phrase  includes  the  parties'
+          agreement  that the  approval  or  consent  shall not be  unreasonably
+          delayed or conditioned;
+
+     (h)  no  consideration  shall be given to the fact or presumption  that one
+          party had a greater or lesser hand in drafting this  Agreement;  every
+          covenant,  term and  provision  of this  Agreement  shall be construed
+          simply  according  to its fair meaning and not strictly for or against
+          any party  (notwithstanding  any rule of law requiring an agreement to
+          be strictly construed against the drafting party), it being understood
+          that the parties are sophisticated  and have had adequate  opportunity
+          and  means to retain  counsel  to  represent  their  interests  and to
+          otherwise negotiate the provisions of this Agreement;
+
+     (i)  The titles and captions of the Sections provided in this Agreement are
+          strictly  for  purposes  of  convenience  and  reference  and  are not
+          intended to change, modify, or alter the substance of any provision of
+          this Agreement.
+
+     (j)  examples shall not be construed to limit, expressly or by implication,
+          the matter they illustrate; (k) a defined term has its defined meaning
+          throughout  this  Agreement,  and  each  Exhibit  to  this  Agreement,
+          regardless of whether it appears before or after the place where it is
+          defined;
+
+     (l)  all references to prices,  values or monetary  amounts refer to United
+          States dollars, unless expressly provided otherwise;
+
+     (m)  each  Exhibit to this  Agreement is a part of this  Agreement,  but if
+          there is any conflict or  inconsistency  between the main body of this
+          Agreement  and any Exhibit,  the  provisions  of the main body of this
+          Agreement shall prevail; and
+
+     (n)  the word "or" may not be mutually  exclusive,  and can be construed to
+          mean "and" where the context  requires  there to be a multiple  rather
+          than an alternative obligation.
+
+                                   ARTICLE 14
+
+                            Miscellaneous Provisions
+
+14.1 The  parties  acknowledge  that  this  Agreement  has been  negotiated  and
+     executed in the State of Texas, and further agree that this Agreement shall
+     be  governed,  construed  and enforced in  accordance  with the laws of the
+     State of Texas,  excluding any  conflicts-of-laws  provisions thereof. Each
+     party, solely for the benefit of the other Party and not for the benefit of
+     any third person  hereby  irrevocably  submits to the  jurisdiction  of any
+     Texas court sitting in ▇▇▇▇▇▇ County, Texas or any Federal court sitting in
+     the Southern  District of Texas,  Houston  Division,  having subject matter
+     jurisdiction  over any action or  proceeding  arising out of or relating to
+     this Agreement, and each party hereby irrevocably agrees that all claims in
+     respect of such actions or  proceedings  shall be heard and  determined  in
+     such Texas court or Federal court;  provided,  however, that nothing in the
+
+                                       17
+
+
+     foregoing  provisions  of this  Article  shall be  construed  to permit the
+     initiation  of an action or  proceeding  by either  party in a manner other
+     than as prescribed or permitted by law and provided,  further, however that
+     the  foregoing  provisions of this Article are intended to govern the situs
+     of actions or proceedings  between the parties,  and are not intended to be
+     applicable  to the  bringing  of  actions  or  proceedings  by a party with
+     respect to third persons.
+
+14.2 This  Agreement  and the  Exhibits  set  forth  the  entire  agreement  and
+     understanding  of the  parties  hereto  with  respect  to the  transactions
+     contemplated  hereby and supersede all prior  agreements,  arrangements and
+     understandings  relating to the subject matter hereof.  No  representation,
+     promise,  inducement  or statement of intention  has been made by Seller or
+     Purchaser  which is not  embodied  in this  Agreement  or in the  documents
+     referred to herein,  and neither Seller not Purchaser  shall be bound by or
+     liable for any alleged representation,  promise, inducement or statement of
+     intention not so set forth.
+
+14.3 No officer,  director,  employee or agent of either Seller or Purchaser may
+     amend,  alter,  supplement,  change or modify  this  Agreement  except by a
+     written instrument physically executed by either an officer of Purchaser or
+     an  officer  of  Seller.   Any  attempted  oral   modification  or  written
+     modification,  except as specifically  set forth herein,  shall be void, ab
+     initio,  and shall not be construed as, nor shall it be, a modification  of
+     this Agreement.
+
+14.4 All of the terms, covenants, representations,  warranties and conditions of
+     this  Agreement  shall be binding  upon and inure to the  benefit of and be
+     enforceable by the parties hereto and their respective successors,  assigns
+     and other legal representatives.
+
+14.5 There  are no  third  party  beneficiaries  to  this  Agreement,  and  this
+     Agreement is solely among the parties hereto, and the parties do not intend
+     to confer any benefit,  right or obligation upon any party not specifically
+     a party to this Agreement.
+
+14.6 No  waiver  by any  party of any  condition  or of any  breach of any term,
+     covenant,  representation or warranty  contained in this Agreement,  in any
+     one or more  instances,  shall be deemed to be or construed as a further or
+     continuing  waiver of any such  condition  or breach or waiver of any other
+     condition or of any breach of any other term,  covenant,  representation or
+     warranty.
+
+14.7 This  Agreement  may be executed in  multiple  counterparts,  each of which
+     shall  be  deemed  an  original  and  all of  which  taken  together  shall
+     constitute one instrument;  provided, however, that this Agreement shall be
+     effective  as  to  each  party  upon  its  execution   hereof  whether  all
+     counterparts  are  executed  by a party  or not.  In  making  proof of this
+     Agreement  it shall not be  necessary  to produce  nor to  account  for all
+
+                                       18
+
+
+     counterparts  hereof,  and it  shall  be  sufficient  to  produce  but  one
+     counterpart  original  hereof  executed  by the party  sought to be charged
+     thereby.
+
+14.8 The  parties  specifically  intend that this  Agreement  may be executed by
+     facsimile  or  by  the  exchange  of  documents  in  electronic  format  in
+     accordance with the Uniform  Electronic  Transactions Act (Tex. Bus. & Com.
+     Code ss.  43.001 et seq.),  and that this  Agreement  shall be deemed to be
+     executed by the parties when a party has caused the  execution  hereof by a
+     person  duly  authorized  to  execute  the  same,  has then  forwarded  the
+     Agreement by  facsimile  or  electronic  mail,  and the other  parties have
+     executed  the  counterpart  of the  Agreement  received  by them  and  have
+     returned a fully executed  counterpart to the originating  party.  Upon the
+     receipt by the originating party of a fully executed  counterpart,  whether
+     the same be in facsimile or electronic  form,  the Agreement  shall then be
+     deemed to be executed  and  effective.  The parties  may,  but shall not be
+     required to, exchange  counterparts  bearing original  signatures,  but the
+     date of execution shall be deemed to be the date upon which the originating
+     party received the fully executed counterpart.
+
+14.9 This Agreement shall become effective upon the latest date of the execution
+     hereof by both  parties,  and for the purposes of  determining  the date of
+     execution, the same shall be the date set forth below a party's signature.
+
+
+                     [TWO SIGNATURE PAGES FOLLOW THIS PAGE]
+
+                                       19
+
+
+The parties have executed this instrument to be effective as provided in Section
+14.9.
+
+                                      SELLER
+                                      Vanguard Energy Corporation
+
+
+                                      By:/s/ ▇▇▇▇▇▇ ▇▇▇▇▇▇▇
+                                         -------------------------
+                                         ▇▇▇▇▇▇ ▇▇▇▇▇▇▇, President
+
+                                         Date: April 11, 2014
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       20
+
+
+
+
+The parties have executed this instrument to be effective as provided in Section
+14.9.
+
+                                      PURCHASER
+                                      Vast Exploration, LLC
+
+
+                                      By: /s/ ▇▇▇▇▇ ▇▇▇▇▇▇
+                                         -----------------
+                                         Name: ▇▇▇▇▇ ▇▇▇▇▇▇
+                                         Title: President
+                                         Date April 16, 2014
+
+
+
+
+
+
+
+
+
+
+                                       21
+
+
+
+
+                                    Exhibit A
+
+                                       To
+
+                           Purchase and Sale Agreement
+
+                                     Between
+
+                           Vanguard Energy Corporation
+
+                                       And
+
+                              Vast Exploration, LLC
+
+                            Description of Properties
+
+
+
+
+
+
+                                    Exhibit B
+
+                                       To
+
+                           Purchase and Sale Agreement
+
+                                     Between
+
+                           Vanguard Energy Corporation
+
+                                       And
+
+                              Vast Exploration, LLC
+
+                                    Inventory
+
+                                       B-1
+
+
+
+                                    Exhibit C
+
+                                       To
+
+                           Purchase and Sale Agreement
+
+                                     Between
+
+                           Vanguard Energy Corporation
+
+                                       And
+
+                              Vast Exploration, LLC
+
+                            Purchase Price Allocation
+
+                               [Follows This Page]
+
+
+                                       C-1
+
+
+
+
+                                    Exhibit D
+
+                                       To
+
+                           Purchase and Sale Agreement
+
+                                     Between
+
+                           Vanguard Energy Corporation
+
+                                       And
+
+                              Vast Exploration, LLC
+
+                            Instrument of Conveyance
