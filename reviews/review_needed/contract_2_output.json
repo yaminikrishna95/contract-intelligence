@@ -25,12 +25,12 @@
   ],
   "term_length": null,
   "governing_law": "State of New York",
-  "payment_terms": "Fees calculated quarterly based on average daily net asset value of fund shares held, with basis points varying by fund and share class. Payments due within 30 days of quarterly invoice receipt.",
+  "payment_terms": "Fees calculated quarterly based on average daily net asset value of fund shares held, with basis point rates varying by fund and share class. Payment due within 30 days of quarterly invoice.",
   "termination_clauses": [
     "Termination by any party upon 60 days' written notice",
     "Termination by any party upon at least 30 days' written notice if required by applicable law, rule or regulation",
     "Termination by any party upon at least 30 days' written notice upon material breach of the Agreement by the other party",
     "Automatic immediate termination upon termination of the Participation Agreement",
-    "Termination with respect to a Portfolio upon effective date of such Portfolio's liquidation or merger with another portfolio that is not a series of the Funds"
+    "Termination with respect to a Portfolio upon the effective date of such Portfolio's liquidation or merger with another portfolio that is not a series of the Funds"
   ]
 }

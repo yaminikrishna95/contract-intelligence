@@ -1,0 +1,7 @@
+{"timestamp": "2026-06-29T19:22:19.199964", "contract": "contract_1", "status": "success", "reason": "", "duration_ms": 3773, "input_tokens": 8770, "output_tokens": 329, "needs_review": false, "review_reason": ""}
+{"timestamp": "2026-06-29T19:22:25.784309", "contract": "contract_2", "status": "success", "reason": "", "duration_ms": 6582, "input_tokens": 15548, "output_tokens": 471, "needs_review": true, "review_reason": "1 fields are null \u2014 extraction mostly blank"}
+{"timestamp": "2026-06-29T19:22:31.127533", "contract": "contract_3", "status": "success", "reason": "", "duration_ms": 5339, "input_tokens": 7071, "output_tokens": 498, "needs_review": false, "review_reason": ""}
+{"timestamp": "2026-06-29T19:22:36.113246", "contract": "contract_4", "status": "success", "reason": "", "duration_ms": 4982, "input_tokens": 6124, "output_tokens": 295, "needs_review": false, "review_reason": ""}
+{"timestamp": "2026-06-29T19:22:40.498526", "contract": "contract_5", "status": "success", "reason": "", "duration_ms": 4382, "input_tokens": 17942, "output_tokens": 408, "needs_review": true, "review_reason": "1 fields are null \u2014 extraction mostly blank"}
+{"timestamp": "2026-06-29T19:22:46.322456", "contract": "contract_6", "status": "success", "reason": "", "duration_ms": 5818, "input_tokens": 28348, "output_tokens": 582, "needs_review": false, "review_reason": ""}
+{"timestamp": "2026-06-29T19:22:46.322767", "contract": "contract_99_empty", "status": "skipped", "reason": "empty contract text"}

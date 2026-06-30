@@ -1,0 +1,7 @@
+{"timestamp": "2026-06-29T19:15:00.298945", "contract": "contract_1", "status": "success", "reason": "", "duration_ms": 3346, "input_tokens": 8770, "output_tokens": 331, "needs_review": false, "review_reason": ""}
+{"timestamp": "2026-06-29T19:15:05.090798", "contract": "contract_2", "status": "success", "reason": "", "duration_ms": 4790, "input_tokens": 15548, "output_tokens": 481, "needs_review": false, "review_reason": ""}
+{"timestamp": "2026-06-29T19:15:10.461954", "contract": "contract_3", "status": "success", "reason": "", "duration_ms": 5368, "input_tokens": 7071, "output_tokens": 498, "needs_review": false, "review_reason": ""}
+{"timestamp": "2026-06-29T19:15:13.419694", "contract": "contract_4", "status": "success", "reason": "", "duration_ms": 2955, "input_tokens": 6124, "output_tokens": 295, "needs_review": false, "review_reason": ""}
+{"timestamp": "2026-06-29T19:15:17.584138", "contract": "contract_5", "status": "success", "reason": "", "duration_ms": 4161, "input_tokens": 17942, "output_tokens": 408, "needs_review": false, "review_reason": ""}
+{"timestamp": "2026-06-29T19:15:23.218559", "contract": "contract_6", "status": "success", "reason": "", "duration_ms": 5628, "input_tokens": 28348, "output_tokens": 552, "needs_review": false, "review_reason": ""}
+{"timestamp": "2026-06-29T19:15:23.219309", "contract": "contract_99_empty", "status": "skipped", "reason": "empty contract text"}
