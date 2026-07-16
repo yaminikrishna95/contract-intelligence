@@ -1,0 +1,20 @@
+{
+  "agreement_type": "purchase",
+  "effective_date": "2014-04-01",
+  "parties": [
+    {"name": "Vanguard Energy Corporation", "role": "Seller"},
+    {"name": "Vast Exploration, LLC", "role": "Purchaser"}
+  ],
+  "term_length": null,
+  "governing_law": "State of Texas",
+  "payment_terms": "$150,000 earnest money deposit held in escrow, with $5,500,000 total purchase price due at closing by wire transfer, subject to standard adjustments.",
+  "termination_clauses": [
+    "Mutual written agreement",
+    "Closing not occurring by May 15, 2014",
+    "Material inaccuracy in Seller representations",
+    "Material breach or failure to perform",
+    "Material misstatement or omission of fact",
+    "Purchaser's conditions precedent (Article 7)",
+    "Seller's conditions precedent (Article 8)"
+  ]
+}

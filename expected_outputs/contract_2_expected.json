@@ -1,0 +1,36 @@
+{
+  "agreement_type": "services",
+  "effective_date": "2018-03-01",
+  "parties": [
+    {
+      "name": "American United Life Insurance Company",
+      "role": "Service Provider"
+    },
+    {
+      "name": "OneAmerica Securities, Inc.",
+      "role": "Service Provider"
+    },
+    {
+      "name": "Hartford Funds Distributors, LLC",
+      "role": "Service Recipient"
+    },
+    {
+      "name": "Hartford Funds Management Company, LLC",
+      "role": "Service Recipient"
+    },
+    {
+      "name": "Hartford Administrative Services Company",
+      "role": "Service Recipient"
+    }
+  ],
+  "term_length": null,
+  "governing_law": "State of New York",
+  "payment_terms": "Quarterly fees on average daily net asset value calculated in basis points varying by fund and share class, comprising service fees, administrative fees, sub-transfer-agent fees, and supplemental fees paid by different responsible parties (Transfer Agent, distributor, HFMC).",
+  "termination_clauses": [
+    "Termination by any party upon 60 days' written notice",
+    "Termination by any party upon at least 30 days' written notice if required by applicable law, rule or regulation",
+    "Termination by any party upon at least 30 days' written notice upon material breach of the Agreement by the other party",
+    "Automatic immediate termination upon termination of the Participation Agreement",
+    "Termination with respect to a Portfolio upon effective date of such Portfolio's liquidation or merger with another portfolio that is not a series of the Funds"
+  ]
+}

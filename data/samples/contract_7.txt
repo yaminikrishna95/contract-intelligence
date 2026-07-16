@@ -1,0 +1,1269 @@
+
+                                LICENSE AGREEMENT
+
+
+         This License Agreement (this "Agreement") is entered into effective as
+of the 30th day of June, 2000 (the "Effective Date") by and between Activision
+Publishing, Inc., a Delaware corporation with offices at ▇▇▇▇ ▇▇▇▇▇ ▇▇▇▇
+▇▇▇▇▇▇▇▇▇, ▇▇▇▇▇ ▇▇▇▇▇▇, ▇▇▇▇▇▇▇▇▇▇ ▇▇▇▇▇ ("Activision"), and Majesco Sales,
+Inc. with offices at ▇▇▇ ▇▇▇▇▇▇▇▇ ▇▇▇▇▇▇, ▇▇▇▇▇▇, ▇▇▇ ▇▇▇▇▇▇ ▇▇▇▇▇ ("Licensee").
+
+                                    RECITALS
+
+
+         A. Activision is engaged in the business of developing, publishing,
+licensing and distributing entertainment software products, and owns and holds
+the rights to develop, manufacture, publish, and distribute an entertainment
+software product known as Soldier of Fortune, the description of which is set
+forth on Schedule A attached hereto (the "Activision Property").
+
+         B. Licensee is engaged in the business of developing, producing,
+manufacturing, distributing and selling video games and entertainment software
+products.
+
+         C. Licensee desires to convert the Activision Property to a format for
+use with the Sony Play Station 2 console platform, and to develop, produce,
+manufacture, advertise, promote and distribute such converted Activision
+Property, on the terms and conditions set forth herein.
+
+         NOW, THEREFORE, the parties do hereby agree as follows:
+
+1.       GRANT OF RIGHTS:
+
+         1.1      Activision grants to Licensee a limited, exclusive
+                  non-transferable right and license to: (a) convert the
+                  Activision Property to a format for use solely with the Sony
+                  PlayStation 2 operating system (collectively, the "Converted
+                  Platform") (such converted version of the Activision Property
+                  for use with the Converted Platform being hereinafter referred
+                  to collectively as the "Product"); and (b) develop, produce,
+                  manufacture and have manufactured by a third party, advertise,
+                  promote and distribute the Product (i) in the Territory (as
+                  defined in Section 3.1), (ii) throughout the Term (as defined
+                  in Section 4.1), (iii) only for use on the Converted Platform
+                  set forth above, (iv) for sale solely in retail channels
+                  (i.e., to retailers or end users via retail outlets, or to
+                  subdistributors who will then sell the Product solely to
+                  retailers or end users via retail outlets), and (v) only
+                  pursuant to one or more end-user license agreements approved
+                  in advance by Activision. Activision also grants to Licensee a
+                  limited, non-exclusive, non-transferable right and license to
+                  use Activision's trademarks and logo in accordance with the
+                  terms and conditions of Section 9.1.
+
+         1.2      Licensee shall not have the right to: (a) license or
+                  sublicense the Activision Property or the Product, except for
+                  sublicensing of the Product which is required in conjunction
+                  with the retail distribution of the Product in those parts of
+                  the
+
+
+
+
+                  Territory where sublicensing is appropriate; (b) enter into an
+                  agreement for the bundling of the Product with an OEM
+                  manufacturer; (c) disclose or reverse engineer the Activision
+                  Property or any part thereof, or authorize or permit any of
+                  its customers to do so; or (d) except as otherwise provided in
+                  this Agreement in connection with the development of the
+                  Product, copy or modify the distribute or sell any other
+                  products or version of products based on the Activision
+                  Property. Activision expressly reserves and retains any and
+                  all rights that are expressly excluded from or not
+                  specifically granted to Licensee pursuant to this Agreement.
+
+         1.3      Activision (or as applicable, its licensor in connection with
+                  the Activision Property) has and shall retain all rights,
+                  title and ownership interest in and to the Activision
+                  Property, any and all modifications, enhancements and, subject
+                  to the provisions of Section 8.3, derivative works thereof and
+                  all Intellectual Property Rights (as defined in Section 8.l)
+                  embodied therein and related thereto. Licensee shall not by
+                  any act, or omission to act impair or prejudice the
+                  Intellectual Property Rights of Activision (or, as applicable,
+                  its licensor) in the Activision Property or violate any moral
+                  rights or deal with the Activision Property so that any third
+                  party might obtain any lien or other right of whatever nature
+                  incompatible with the Intellectual Property Rights of
+                  Activision (or, as applicable, its licensor). Licensee agrees
+                  to notify Activision of any known or suspected violation or
+                  infringement of Activision's Intellectual Property Rights in
+                  the Activision Property that comes to Licensee's attention and
+                  to assist Activision at Activision's expense, in the
+                  prosecution of any such infringement claims.
+
+2.       DEVELOPMENT OF THE PRODUCT:
+
+         2.1      Licensee agrees to create the product at its sole cost and
+                  expense pursuant to the terms and conditions of this
+                  Agreement. Subject to Activision's approval rights set forth
+                  in Section 2 hereof, Licensee shall assume full responsibility
+                  for the creation and development of the Product. Activision
+                  agrees to cooperate with and assist Licensee in the
+                  development of the Product by providing Licensee, to the
+                  extent necessary, with audio and visual assets and computer
+                  code for the Activision Property solely to assist Licensee in
+                  developing the Product.
+
+         2.2      Licensee agrees that it shall treat all information received
+                  hereunder as confidential in accordance with Section 12 of
+                  this Agreement. Licensee represents that it has caused or will
+                  cause each of its employees having access to Activision's
+                  information and materials hereunder to execute a
+                  non-disclosure/con-fidentiality agreement sufficient to
+                  protect Activision's confidential information. Licensee also
+                  shall require all independent contractors having access to any
+                  Activision information and materials in connection herewith to
+                  become subject to and be bound by the confidentiality
+                  provisions of this Agreement and to execute a confidentiality
+                  agreement, the form of which is set forth on Schedule E
+                  attached hereto. In. the event that any employee or
+                  independent contractor of Licensee breaches its
+                  confidentiality obligations with respect to Activision's
+                  information and materials hereunder, Licensee will not be
+                  deemed to be in breach of its obligations under this
+                  Agreement, provided that Licensee timely proceeds to
+
+                                       2
+
+
+                  enforce such confidentiality obligations against the employee
+                  or independent contractor. Licensee agrees that in the event
+                  any employee or contractor of License having access to any
+                  Activision information and materials in connection herewith
+                  breaches confidentiality obligations undertaken by Licensee
+                  pursuant to this Agreement, and Licensee does not timely
+                  commence an action to prevent the unauthorized dissemination
+                  of confidential information, Activision shall have the right
+                  to proceed on behalf of Licensee against the party engaged in
+                  such unauthorized disclosure of information, including,
+                  without limitation, the right to seek injunctive and other
+                  equitable relief. In connection therewith, Licensee agrees to
+                  assign to Activision its legal right to proceed against the
+                  party engaged in such unauthorized disclosure of information,
+                  and will execute any documents reasonably required by
+                  Activision to evidence such assignment.
+
+         2.3      Licensee agrees to develop the Product in conformance with
+                  commonly accepted standards for high-quality computer and
+                  video game software. Licensee and Activision acknowledge and
+                  agree that the conversion of the Activision Property may
+                  require certain modifications to the gameplay of the
+                  Activision Property to accommodate the features arid
+                  limitations of the Converted Platform, which modifications
+                  shall be subject to the prior written approval of Activision,
+                  which shall not be unreasonably withheld. Licensee will
+                  perform all development and other services required hereunder
+                  at its offices. Licensee's development team assigned to the
+                  development of the Product will consist of fully-qualified
+                  employees of Licensee, who will devote such time to the
+                  development of the Product as is necessary to complete such
+                  Product on time and in a manner which conforms to the
+                  standards required by this Agreement. In the event Licensee
+                  wishes to utilize the services of a third party developer
+                  ("Outside Developer") in connection with the development of
+                  the Product, then the following shall apply: (a) such Outside
+                  Developer shall be subject to the prior written approval of
+                  Activision, which shall not be unreasonably withheld; (b)
+                  Licensee's engagement of such Outside Developer shall be
+                  subject to all terms and conditions of this Agreement and (c)
+                  Licensee shall remain primarily liable to Activision at all
+                  times for Outside Developer's conduct and for the completion
+                  of the development of the Product.
+
+         2.4      Licensee agrees to use its commercially reasonable efforts to
+                  complete the Product promptly following the execution of this
+                  Agreement, but will complete the Product by no later than
+                  (****) following the Effective Date in any event, provided
+                  that this (****) deadline shall be subject to the timely
+                  fulfillment by Activision of its obligations relating to
+                  cooperation, assistance and approvals as specifically set
+                  forth in this Agreement. For the purpose of facilitating
+                  Activision's approval of the Product as set forth in Section
+                  2.5 below, Licensee shall submit process reports as may be
+                  reasonably requested by Activision during the development and
+                  production of the Product, and shall submit for Activision's
+                  review and approval current "builds" (as such term is commonly
+                  understood in
+
+--------
+(*)  Confidential portion omitted and filed separately with the Securities
+     Exchange Commission.
+                                       3
+
+
+                  the entertainment software industry) of the Product as set
+                  forth in Section 7. Licensee shall incorporate any changes
+                  requested by Activision after review of such "builds" into the
+                  Product, provided however that Activision shall not request
+                  changes which are inconsistent with the design document which
+                  is approved by Activision pursuant to Section 2.5. All
+                  progress reports, "builds" and other material and information
+                  submitted to Activision by Licensee under this Section 2.4
+                  shall constitute confidential information of Licensee subject
+                  to the provisions of Section 12.
+
+
+         2.5      Licensee agrees that the Product shall be of the standard
+                  customary to high-quality products in the entertainment
+                  software industry and of such style, appearance and quality as
+                  shall, in the judgment of Activision, be adequate and suited
+                  to its exploitation to the best advantage and to the
+                  protection and enhancement of the Activision Property and the
+                  goodwill pertaining thereto; that the Product shall be
+                  manufactured, packaged, sold, distributed, advertised and
+                  serviced in accordance with all applicable laws; that the
+                  policy of sale, distribution, and/or exploitation by Licensee
+                  shall be of the equivalent standard customary to high-quality
+                  products in the entertainment industry; and that the same
+                  shall in no manner reflect adversely upon the Activision
+                  Property or Activision. Licensee further agrees that all
+                  rights granted herein shall be exploited or exercised so as
+                  not to interfere with, detract from, or alter in any respect
+                  the concepts used by Activision or known to the public in
+                  connection with the Activision Property, and that Licensee
+                  shall use its best efforts to preserve such concepts therein.
+                  Accordingly, Licensee agrees to submit the Product, all
+                  associated packaging and documentation, and all marketing
+                  materials to be utilized in connection with the advertising,
+                  marketing and promotion of the Product to Activision for
+                  Activision's prior approval or disapproval. Licensee shall
+                  submit "builds" of the Product for Activision's approva1 at:
+                  (a) the initial concept and design document stage (it being
+                  understood that at such stage, Activision shall have the right
+                  to approve such concept and the final design document); (b)
+                  upon implementation of the art constituting the main gameplay
+                  elements of the Product; (c) Licensee's alpha and beta
+                  development stages; and (d) at its final pre-gold master stage
+                  (as such terms &c commonly understood in the entertainment
+                  software industry). Any version of the Product created by
+                  Licensee shall not be distributed or otherwise utilized by
+                  Licensee without first obtaining the written approval of
+                  Activision (and, as necessary, the third parties set forth in
+                  Section 2.6 as to the final form, content and quality of the
+                  Product and all associated packaging and documentation
+                  therefor as well as the title to be used by Licensee in
+                  connection with the distribution of the Product. Activision
+                  shall use reasonable efforts to approve materials submitted by
+                  Licensee within (****) business days alter receipt, which
+                  approval shall not be unreasonably withheld. Licensee agrees
+                  to make such changes as will be reasonably required to correct
+                  any deficiencies noted by Activision promptly upon receipt of
+                  such notice. This
+
+--------
+(*)  Confidential portion omitted and filed separately with the Securities
+     Exchange Commission.
+
+                                       4
+
+
+                  procedure will be repeated with each submission until
+                  Activision determines that its request for changes has been
+                  met.
+
+         2.6      Activision and Licensee acknowledge and agree that the
+                  Product, including any packaging and marketing materials
+                  created by Licensee to be used in connection with the Product,
+                  shall also be subject to the approval of Sony Electronic
+                  Publishing Co. and/or any of its affiliates, parent companies,
+                  or subsidiaries (collectively "Sony") and NNP, Inc. and/or its
+                  affiliates, parent companies, licensors or subsidiaries
+                  ("NNP"), Activision's licensor of the "Soldier of Fortune"
+                  property on which the Activision Property is based, and
+                  Licensee agrees to make and/or implement any and all changes
+                  to the Product that may be required by Sony and NNP. Licensee
+                  further agrees that all materials relating to the Product
+                  requiring NNP's approval will be processed solely through
+                  Activision for submission to NNP, rather than directly from
+                  Licensee to NNP.
+
+         2.7      The packaging and the written documentation for the Product
+                  shall contain a notice indicating that the Product is produced
+                  by Licensee under license from Activision and shall contain
+                  proper legal notices approved by Activision indicating
+                  Activision's ownership of the Intellectual Property Rights in
+                  and to the Product
+
+         2.8      Promptly upon Licensee's receipt of its initial shipment of
+                  the Product, Licensee shall provide to Activision (****)
+                  units of the Product for its internal use.
+
+3.       TERRITORY:
+
+         3.1      Licensee shall be entitled to exercise the rights granted
+                  hereunder only in the territory described in Schedule B
+                  attached hereto (the "Territory").
+
+4.       TERM:
+
+         4.1      The rights granted hereunder shall be effective as of the
+                  Effective Date and shall expire as of the date specified in
+                  Schedule C attached hereto, unless sooner terminated in
+                  accordance with the terms and conditions hereof (the "Term")
+
+5.       ROYALTIES:
+
+         5.1      In consideration of the rights granted to Licensee pursuant to
+                  this Agreement, Licensee shall pay to Activision the Advance
+                  (as defined below) and Royalties (as defined below) as set
+                  forth in this Section 5. Activision shall be solely
+                  responsible for any payments that may become due and payable
+                  to any of Activision's licensors of the Activision Property
+                  (if any) in connection with Licensee's exploitation of its
+                  rights granted in this Agreement
+
+--------
+(*)  Confidential portion omitted and filed separately with the Securities
+     Exchange Commission.
+                                       5
+
+
+
+         5.2      Licensee shall pay to Activision a non-refundable advance (the
+                  "Advance") in the amount set forth on Schedule D attached
+                  hereto immediately upon execution of this Agreement by both
+                  parties, which Advance shall be fully recoupable from the
+                  Royalties payable to Activision pursuant to Section 5.3 below.
+
+         5.3      Licensee shall pay Activision the respective per unit royalty
+                  amounts for each unit of the Product sold or licensed by
+                  Licensee hereunder ("Royalty" or "Royalties") according to
+                  Schedule D attached hereto. A unit of the Product shall be
+                  considered "sold" or "licensed" when the payment for such unit
+                  of the Product is paid or credited to Licensee's account,
+                  whichever occurs first.
+
+         5.4      Payments of the Advance and all Royalties for all units of the
+                  Product distributed by Licensee shall be made in United States
+                  Dollars solely by wire transfer to a bank account designated
+                  by Activision. Payment of the Advance and all Royalties to
+                  Activision shall be made without deduction, reduction or
+                  set-off of any kind whatsoever, except solely that Licensee
+                  shall be entitled to deduct any unrecouped portion of the
+                  Advance from Royalties which may be due at the time such
+                  Royalties are otherwise due and payable to Activision.
+
+         5.5      Within (****) days after the end of each calendar quarter
+                  during the Term of this Agreement, commencing with the
+                  calendar quarter during which the first unit of the Product is
+                  shipped by Licensee, Licensee shall furnish Activision with an
+                  accounting statement of the Royalties earned and an account of
+                  the manufacture and sale of the Product hereunder, together
+                  with payment for any amount shown thereby to be due to
+                  Activision. The Royalty statement shall be based upon
+                  distribution of units of the Product during the calendar
+                  quarter then ended, and shall be sufficient to discern how the
+                  Royalties, if any, due to Activision were computed.
+
+         5.6      For the avoidance of doubt the parties acknowledge and agree
+                  that Licensee shall not be entitled to withhold any portion of
+                  the Royalties as a reserve.
+
+         5.7      All payments of the Royalties to Activision will be made
+                  without deduction or withholding for any foreign, national,
+                  state or local sales, use, value added, withholding or other
+                  taxes, custom duties, or similar tariffs and fees. Should any
+                  tax or levy be made in connection therewith, Licensee agrees
+                  to pay such tax or levy and indemnify Activision for any claim
+                  for such tax or levy demanded.
+
+         5.8      Activision will have the right at least twice annually during
+                  the term of this Agreement to have independent auditors
+                  examine Licensee's books, records and accounts for the purpose
+                  of verifying payment to Activision hereunder. Each such
+                  examination will be upon at least five (5) business days prior
+                  written notice to Licensee and will not unreasonably interfere
+                  with Licensee's business. If any examination discloses a
+                  shortfall in any Royalty payment due Activision of more than
+                  (****), Licensee will pay the fee of the auditors for that
+                  examination, in
+
+--------
+(*)  Confidential portion omitted and filed separately with the Securities
+     Exchange Commission.
+
+                                       6
+
+
+                  addition to the payment of such shortfall, and Activision will
+                  be entitled to perform an additional examination
+                  within (****) from the date of the examination that disclosed
+                  such shortfall. All information (other than information
+                  pertaining to Royalties due to Activision) learned by, or
+                  disclosed to, Activision or its agent as a result of any such
+                  audit shall constitute Licensee's confidential information,
+                  and any person who conducts such audit will therefore, be
+                  required to execute a non-disclosure agreement reasonably
+                  satisfactory to Licensee, that prohibits the unauthorized use
+                  or disclosure to third parties of Licensee's confidential
+                  information.
+
+6.       CUSTOMER SUPPORT AND MARKETING COMMITMENTS:
+
+         6.1      Licensee shall commence marketing and public distribution of
+                  the Product immediately following the final approval thereof
+                  by Activision in accordance with the terms of this Agreement.
+
+         6.2      Licensee shall use diligent, good faith efforts to market and
+                  promote the distribution of the Product in the Territory.
+                  Subject to Activision's approval rights in connection with
+                  marketing materials set forth in Section 2.5, Licensee shall
+                  consult with Activision regarding the marketing and promotion
+                  of the Product. Licensee shall not distribute the Product as a
+                  premium or giveaway or in connection with the sale or
+                  promotion of any other products or services.
+
+         6.3      Activision will provide Licensee with a reasonable amount of
+                  artwork from the packaging and promotional materials utilized
+                  by Activision in connection with the Activision Property for
+                  Licensee's use in the creation of packaging and promotional
+                  materials for the Product, subject to Activision's approval
+                  rights of such materials as set forth in Section 2.5 of this
+                  Agreement.
+
+         6.4      Licensee will be responsible for determining the suggested
+                  retail price at which the Product will be offered for sale to
+                  the general public.
+
+         6.5      Licensee shall provide technical support to all dealers and
+                  customers in the Territory who obtain the Product, the
+                  standard of such support to be commensurate with the generally
+                  accepted highest level of support in the entertainment
+                  software industry in the Territory, including without
+                  limitation telephone and fax support to be provided by
+                  Licensee via telephone numbers to which customers may call
+                  during Licensee's normal business hours or fax in order to
+                  have their technical questions about the Product answered.
+                  ACTIVISION SHALL NOT BE RESPONSIBLE FOR, NOR SHALL ACTIVISION
+                  PROVIDE, CUSTOMER SUPPORT OF ANY KIND IN CONNECTION WITH THE
+                  PRODUCT. Activision shall refer any and all technical support
+                  requests in connection with the Product to Licensee, and
+                  Licensee shall reimburse Activision for any reasonable, actual
+                  costs incurred by Activision in connection with any
+
+--------
+(*)  Confidential portion omitted and filed separately with the Securities
+     Exchange Commission.
+
+                                       7
+
+
+                  technical support of the Product by Activision necessitated by
+                  Licensee's failure to provide adequate customer support.
+
+         6.6      Licensee shall bear the costs of submitting the Product to any
+                  rating authorities of the Territory, along with any rating,
+                  fees or administrative payments that become due.
+
+7.       CONVERSION OF THE PRODUCT TO OTHER PLATFORMS:
+
+         7.1      Notwithstanding anything to the contrary contained herein,
+                  Activision shall have during and after the Term of this
+                  Agreement the unlimited right to convert, or license to third
+                  parties the right to convert, the Activision Property and any
+                  gameplay elements of the Product for use on any and all
+                  operating systems and platforms other than the Converted
+                  Platform and to produce, develop, manufacture, advertise,
+                  promote and distribute such converted product in any and all
+                  portions of the Territory without any obligation to Licensee
+                  whatsoever; provided, however, Activision will not be
+                  permitted to utilize any of information in furtherance of or
+                  in connection with, such activities.
+
+8.       INTELLECTUAL PROPERTY RIGHTS:
+
+         8.1      For purposes of this Agreement, the term "Intellectual
+                  Property Rights" means patent rights, inventions, know-how,
+                  and registrations and applications, renewals and extensions
+                  therefor, all works of authorship, copyrights and
+                  copyrightable work product or elements (including, but not
+                  limited to, all titles, computer code, themes, objects,
+                  characters, character names, stories, dialog, catch phrases,
+                  locations, concepts, artwork, animation, designs, sounds,
+                  musical compositions, audio-visual effects and methods of
+                  operation and play, moral rights and related documentation),
+                  copyright registrations and applications, renewals and
+                  extensions therefor, trademark registrations and applications,
+                  renewals and extensions therefor, rights in trade dress and
+                  packaging, goodwill, trade and other intellectual property and
+                  other proprietary rights recognized by the US laws, laws in
+                  the Territory, and other applicable foreign and international
+                  laws, treaties and conventions.
+
+         8.2      Notwithstanding anything to the contrary set forth in this
+                  Agreement Activision or, as applicable, its licensor shall at
+                  all times be and remain the sole and exclusive owner of the
+                  Activision Property and all Intellectual Property Rights
+                  pertaining thereto. Without limiting the generality of the
+                  foregoing, nothing in this Agreement shall be deemed to grant
+                  Licensee any proprietary or ownership interest or Intellectual
+                  Property Rights in or to the Activision Property.
+
+         8.3      Notwithstanding the foregoing, Activision acknowledges and
+                  agrees that it has no right, title and/or interest in and to
+                  the work undertaken by Licensee to develop the Product,
+                  including, without limitation, (a) computer software, code,
+                  routines, tools, algorithms and the like which generate any of
+                  the audio-visual assets or other gameplay elements contained
+                  in the Product, (b) all originally created art,
+
+
+                                       8
+
+
+
+                  sound, music, and other assets and designs embodied in the
+                  Product, or any reproduction thereof, (a) the technical and/or
+                  maintenance documentation of or concerning the Product, and
+                  (d) the related instruction manuals and packaging for the
+                  Product, including all protectable trade dress contained in
+                  such packaging (collectively, the "Work Product"), to the
+                  extent the Work Product does not include any portion of the
+                  Activision Property or any artwork, assets or other materials
+                  supplied by Activision (collectively, "Activision Materials").
+                  The Work Product shall be owned by Licensee to the extent such
+                  does not include any of the Activision Materials, all right,
+                  title and interest to which shall be owned exclusively by
+                  Activision or, as applicable, its licensor. Subject to
+                  Activision's or its licensor's ownership of the Activision
+                  Materials, Licensee shall have all rights, title and interests
+                  in and to the Product and the Work Product, and all
+                  Intellectual Property Rights pertaining thereto.
+
+         8.4      The Activision Property is licensed, not sold, by Activision
+                  to Licensee, and nothing in this Agreement will be interpreted
+                  or construed as a sale or purchase of any copy of the
+                  Activision Property, including but not limited to any use of a
+                  "purchase order" by Licensee in connection with the
+                  transactions contemplated hereunder. Furthermore, any
+                  distribution or delivery of the Product by Licensee to any
+                  sublicensee (including, without limitation, subdistributors
+                  and end-users) will be by license and not by sale.
+                  Accordingly, Licensee acknowledges that the "First Sale
+                  Doctrine" (as embodied in 17 U.S.C., Section 109 of the United
+                  States Copyright Act of 1976, as amended, or the equivalent
+                  law or statute in the Territory) does not apply to Licensee's
+                  acquisition of rights in and to the Activision Property
+                  hereunder or to any sublicensee's acquisition of rights in and
+                  to the Product under any agreement between Licensee and a
+                  sublicensee.
+
+9.       TRADEMARKS AND COPYRIGHTS: ACTIVISION'S TITLE AND GOODWILL:
+
+         9.1      Licensee agrees to place in the Product, on the packaging and
+                  related documentation and marketing materials all copyright
+                  notices, logos and designations in the form and manner
+                  directed by Activision. Activision's logo shall be at least
+                  equal in size to other logos featured in the Product,
+                  documentation and marketing materials, including Licensee's
+                  logo. Without limiting Activision's other approval rights set
+                  forth in this Agreement, Activision's specific approval is
+                  required on the placement of Activision's logo, copyright
+                  notices and designations. Except as provided in Section 8.3,
+                  all copyrights, trademarks and service marks relating to the
+                  subject matter of this Agreement are, will be and shall remain
+                  the sole property of Activision (or, if applicable, its
+                  Licensor and other contractors). Licensee shall create,
+                  execute and deliver to Activision all documents and
+                  instruments required by Activision for the protection of or
+                  otherwise in connection with the copyrights, trademarks and
+                  service marks of Activision (or, if applicable, its licensor
+                  and other contractors). Licensee shall not have the right to
+                  use Activision's (or, if applicable, its licensor's and other
+                  contractors') trademarks or trade names except in connection
+
+                                       9
+
+
+                  with the promotion and distribution of the Product in the
+                  Territory in accordance with the terms of this Agreement.
+
+         9.2      Licensee acknowledges that Activision or, as applicable, its
+                  licensor, is the owner of all right, title and interest in and
+                  to the Activision Property, and further acknowledges the great
+                  value of the goodwill associated with the Activision Property
+                  and that the Activision Property has acquired secondary
+                  meaning in the mind of the public and that the trademarks and
+                  copyrights included in the Activision Property, and the
+                  registrations therefor, are valid and subsisting, and further
+                  agrees that it shall not during the Term of this Agreement or
+                  at any time thereafter do or cause to be done any act which in
+                  any way may impair, harm or bring into disrepute Activision's
+                  or its licensor's exclusive rights and title to the Activision
+                  Property, as well as any properties owned by Activision which
+                  are not licensed hereunder, or the validity thereof or the
+                  validity of this Agreement, and shall not assist others in so
+                  doing.
+
+         9.3      Licensee shall not in any manner represent that it has any
+                  ownership in the Activision Property, or in any trademarks or
+                  copyrights included in the Activision Property (or
+                  registrations therefor), but may, only during the Term of this
+                  Agreement, and only if Licensee has complied with any and all
+                  applicable laws and registration requirements within the
+                  Territory for so doing, represent that it is a "licensee" or
+                  "official licensee" hereunder. Licensee shall not register or
+                  attempt to register any copyright or trademark in the
+                  Activision Property, in its own name or that of any third
+                  party, nor shall it assist any third party in doing so.
+
+10.      REPRESENTATIONS, WARRANTIES AND COVENANTS:
+
+         10.1     Licensee hereby warrants arid represents that Licensee has the
+                  right and power and is free to enter into and fully perform
+                  this Agreement, without approval from any governmental entity
+                  or third party other than as has been or, if later imposed,
+                  will be obtained.
+
+         10.2     Licensee further warrants and represents that any information
+                  or materials developed in connection with the development of
+                  the Product hereunder shall not rely, or in any way be based
+                  upon, proprietary information or Intellectual Property Rights
+                  obtained or derived by Licensee from sources other than
+                  Activision, unless Licensee has received specific
+                  authorization or license in writing from any such source to
+                  use such information or rights in connection with the
+                  development of the Product.
+
+         10.3     Licensee further warrants and represents that any materials
+                  developed by Licensee pursuant to this Agreement will not
+                  infringe upon or misappropriate the Intellectual Property
+                  Rights (with respect to patent rights, Licensee's
+                  representation herein shall be limited to Licensee's best
+                  knowledge) or any other legal rights of any third party
+                  through any act or omission to act of Licensee hereunder.
+                  Should any aspect of the Product become, or, in Activision's
+                  opinion, is likely to become, the object of any infringement
+                  or misappropriation claim or
+
+                                       10
+
+
+
+                  suit arising out of any act or omission to act of Licensee,
+                  Licensee will procure, at Licensee's expense, the right to use
+                  the Product in all respects, or will replace or modify the
+                  affected Product to make it non-infringing.
+
+         10.4     Licensee hereby covenants to put forth its commercially
+                  reasonable efforts to diligently market, distribute and
+                  promote the Product at Licensee's sole cost and expense.
+
+         10.5     Licensee hereby further covenants not to sell the Product to
+                  any party who it knows, or reasonably should know, will
+                  infringe Activision's Intellectual Property Rights in the
+                  Product.
+
+         10.6     Licensee hereby further covenants to: (a) conduct its business
+                  in a manner that reflects favorably at all times on the
+                  Activision Property, the Product and the good name, goodwill
+                  and reputation of Activision; (b) avoid deceptive, misleading
+                  or unethical practices, that are or might be detrimental to
+                  Activision, the Activision Property, the Product or the
+                  public; (c) avoid making disparaging, false or misleading
+                  statements or representations with regard to Activision, the
+                  Activision Property or the Product; (d) not employ or
+                  cooperate in the employment of any deceptive or misleading
+                  advertising material with regard to Activision, the Activision
+                  Property or the Product; and (e) make no representations,
+                  warranties or guarantees to customers or to the trade with
+                  respect to the specifications, features or capabilities of the
+                  Product that are inconsistent with the warranties and
+                  disclaimers included in or with the Product.
+
+         10.7     Licensee hereby further covenants that it will comply with all
+                  applicable international, national, regional, and local laws
+                  in performing its duties hereunder and in any of its dealings
+                  with respect to the Product.
+
+         10.8     If any approval with respect to this Agreement, or the
+                  notification or registration thereof; will be required at any
+                  time during the Term, with respect to giving legal effect to
+                  this Agreement in the Territory, or with respect to compliance
+                  with exchange regulations or other requirements. Licensee will
+                  immediately take whatever commercially reasonable steps may be
+                  necessary in this respect, and any charges incurred in
+                  connection therewith will be for the account of Licensee.
+                  Licensee shall keep Activision currently informed of its
+                  efforts in this regard. Activision shall be under no
+                  obligation to provide the Product to Licensee hereunder for
+                  the relevant portions of the Territory until Licensee has
+                  provided Activision with satisfactory evidence that such
+                  approval has been obtained, or that no such approvals are
+                  required.
+
+         10.9     Licensee hereby further covenants that it will not distribute
+                  more than (****) promotional copies of the Product.
+
+--------
+(*)  Confidential portion omitted and filed separately with the Securities
+     Exchange Commission.
+
+                                       11
+
+
+
+         10.10    Activision hereby represents and warrants that it has the
+                  right and power to enter into and grant the rights described
+                  herein, that it is free to enter into this Agreement, and that
+                  the rights granted herein will not infringe upon the rights of
+                  any other person or entity.
+
+         10.11    THE ACTIVISION PROPERTY IS PROVIDED TO LICENSEE "AS IS."
+                  EXCEPT AS OTHERWISE EXPRESSLY SET FORTH HEREIN, ACTIVISION
+                  MAKES NO REPRESENTATIONS OR WARRANTS WITH RESPECT TO THE
+                  ACTIVISION PROPERTY OR THE PRODUCT, AND ALL IMPLIED WARRANTIES
+                  OF MERCHANTABILITY, NON-INFRINGEMENT OR FITNESS FOR A
+                  PARTICULAR PURPOSE ARE HEREBY SPECIFICALLY EXCLUDED.
+                  ACTIVISION DOES NOT REPRESENT THAT THE ACTIVISION PROPERTY OR
+                  THE PRODUCT WILL BE ERROR FREE OR OPERATE WITHOUT
+                  INTERRUPTION.
+
+11.      TERMINATION:
+
+         11.1     This Agreement shall continue in effect throughout the Term
+                  unless terminated by either party for the reason stated below:
+
+                  11.1.1.  If, after notifying the other party in writing of a
+                           breach of this Agreement, the breaching party does
+                           not fully cure such breach within (****) of receipt
+                           of such notice. Such termination shall be effected by
+                           giving the breaching party written notice of the
+                           termination.
+
+                  11.1.2.  If either party fails to pay its debts as its debts
+                           became due, becomes insolvent, files or has filed
+                           against it a petition under any bankruptcy law
+                           (which, if involuntary, is unresolved after (****)),
+                           proposes any dissolution, liquidation, composition,
+                           financial reorganization, or recapitalization with
+                           creditors, makes an assignment or trust mortgage for
+                           the benefit of the creditors, or a receiver trustee,
+                           custodian, or similar agent is appointed or takes
+                           possession with respect to any property or business
+                           of Licensee.
+
+                  11.1.3.  In the event a third party, who is in the primary
+                           business of developing, publishing, licensing or
+                           distributing video games or entertainment software
+                           products, acquires more than a (****) equity
+                           ownership interest in Licensee, acquires all or a
+                           substantial portion of Licensee's assets, or succeeds
+                           to the business of Licensee by operation of law or
+                           otherwise, Activision shall have the right to
+                           terminate this Agreement immediately upon notice
+                           thereof. In the event of termination by Activision
+                           pursuant to this Section 11.1.3, Activision shall:
+                           (a) pay to Licensee the amount by which all actual
+                           documented development costs of the Product spent by
+                           Licensee as of the date of such termination
+                           (including any unrecouped portion of the Advance paid
+                           by Licensee to Activision as of
+
+--------
+(*)  Confidential portion omitted and filed separately with the Securities
+     Exchange Commission.
+
+                                       12
+
+
+                           such date) exceeds Licensee's net revenues (after
+                           deduction of actual, documented marketing and sales
+                           expenses) of the. Product; (b) purchase from Licensee
+                           all of Licensee's existing inventory of the Product
+                           at Licensee's actual cost therefor; (c) have the
+                           right to manufacture, distribute, market, advertise,
+                           promote and sell the Product in exchange for payment
+                           of a royalty to Licensee, which such royalty to
+                           Licensee may be used to recoup all sums paid by
+                           Activision to Licensee pursuant to Section 11.1.3(a)
+                           (payable on the same basis, including without
+                           limitation the royalty rate payable, as the Royalty
+                           is paid to Activision pursuant to the terms of this
+                           Agreement); and (d) further assume any obligation on
+                           the part of Licensee to pay advances to any Outside
+                           Developer in connection with the Product (provided
+                           that Licensee provides Activision with written
+                           documentation of such royalty obligations). Upon such
+                           termination by Activision, all of Licensee's rights
+                           in and to the Product shall terminate and be deemed
+                           immediately transferred to Activision, and Licensee
+                           will deliver to Activision a complete asset package
+                           for the Product and all associated packaging and
+                           documentation, including without limitation, source
+                           code for the Product.
+
+                  11.1.4.  Activision shall have the right to terminate this
+                           Agreement immediately after (****) prior notice to
+                           Licensee in the event Licensee (a) fails to pay any
+                           portion of the Advance when due, (b) fails to pay
+                           Royalties and/or make Royalty accountings to
+                           Activision in accordance with the terms of this
+                           Agreement, or (c) has underpaid Royalties owing to
+                           Activision by more than (****), any event of which
+                           shall be deemed a material breach of this Agreement
+                           by Licensee, and Licensee fails to cure the material
+                           breach within such (****) notice period.
+
+         11.2     The right to terminate this Agreement as set forth above shall
+                  be in addition to and not in limitation of any other remedy,
+                  right, undertaking, obligation or agreement of either party.
+                  No waiver by either party of any breach of this Agreement
+                  shall be deemed a waiver of any preceding or succeeding breach
+                  hereof.
+
+         11.3     The parties agree that if as of the expiration of the Term or
+                  as of the date this Agreement is terminated due to Licensee's
+                  uncured breach or otherwise pursuant to Section 11.1, Licensee
+                  has failed to pay any portion of the Advance to Activision, or
+                  any Royalties have accrued to Activision, then without
+                  limiting Activision's other rights and remedies, Licensee
+                  shall promptly pay Activision the remaining balance of such
+                  Advance or such Royalties in full.
+
+         11.4     The parties agree that in case of expiration or early
+                  termination of this Agreement, all Licensee's rights related
+                  to the Activision Property shall cease as of the date of such
+                  expiration or termination, any and all other rights granted to
+                  Licensee
+
+--------
+(*)  Confidential portion omitted and filed separately with the Securities
+     Exchange Commission.
+
+                                       13
+
+
+
+                  pursuant to this Agreement shall immediately and automatically
+                  terminate without prejudice to any rights or claims Activision
+                  may have, and all rights granted to Licensee in this Agreement
+                  shall immediately revert to and be vested in Activision except
+                  that Licensee, for a period of (****) only. may distribute
+                  such units of the Product in Licensee's possession, provided
+                  that such termination is not the result of Licensee's breach
+                  and Licensee continues to promptly provide full accountings
+                  and make full payments to Activision with respect to all
+                  Royalties then due and in connection with such additional
+                  sales. Licensee agrees not to stockpile units of the Product
+                  or manufacture units of the Product in excess of reasonable
+                  market demand in anticipation of such expiration or early
+                  termination.
+
+         11.5     Upon expiration or early termination of this Agreement,
+                  Licensee shall promptly and automatically return to Activision
+                  any property of Activision then in its possession or under its
+                  control.
+
+         11.6     No termination or cancellation of this Agreement by either
+                  party shall in any way affect or impair Activision's rights to
+                  develop, publish, manufacture, and distribute the Activision
+                  Property or any derivative work or other version of the
+                  Activision Property in the Territory, provided that such
+                  derivative work or other version of the Activision Property
+                  does not utilize any of Licensee's Work Product.
+
+         11.7     Licensee acknowledges and agrees that if Activision terminates
+                  this Agreement for a material breach, Activision shall have
+                  the right to terminate any other Agreement with Licensee. In
+                  addition, Licensee acknowledges that if Activision terminates
+                  for material breach any other Agreement between Activision and
+                  Licensee, or if Licensee uses the Activision Property or any
+                  part thereof beyond the scope of the license granted herein or
+                  uses any properties owned by Activision which are not licensed
+                  to Licensee, Activision shall have the right to terminate this
+                  Agreement. In either event, Activision's right, to terminate
+                  shall be effective upon written notice to Licensee.
+
+12.      CONFIDENTIAL INFORMATION:
+
+         12.1     Each party agrees to use reasonable efforts and at least the
+                  same care that it uses to protect its own confidential
+                  information of like importance, to prevent unauthorized
+                  dissemination and disclosure of the other party's confidential
+                  information during and for a period of (****) after the Term.
+                  These obligations will be subject to the following terms and
+                  conditions:
+
+                  12.1.1.  Confidential information includes, but is not limited
+                           to, the following: (a) the design, technology and
+                           know-how related to the Product and the Activision
+                           Property; (b) the computer object and source code of
+                           the Product and the Activision Property; (c)
+                           non-public information
+
+--------
+(*)  Confidential portion omitted and filed separately with the Securities
+     Exchange Commission.
+
+                                       14
+
+
+
+                           concerning either party's financing, financial
+                           status, research and development, proposed new
+                           products, marketing plans and pricing, unless and
+                           until publicly announced; and (d) any information
+                           designated by either party as confidential or
+                           proprietary in writing;
+
+                  12.1.2.  The foregoing obligations will not apply to any
+                           information that: (a) becomes known to the general
+                           public without fault or breach on the part of the
+                           receiving party; (b) the receiving party receives
+                           from a third party without breach of a nondisclosure
+                           obligation and without restriction on disclosure; (c)
+                           was in the possession of the receiving party prior to
+                           disclosure by the other; (d) is independently
+                           developed by the receiving party's personnel having
+                           no access to similar confidential information
+                           obtained from the other; or (e) is required to be
+                           disclosed by Licensee in order to obtain any
+                           entertainment software ratings board approval in
+                           fulfillment of Licensee's obligations pursuant to
+                           this Agreement; and
+
+                  12.1.3.  Nothing in this Agreement will affect any obligation
+                           of either party to maintain the confidentiality of a
+                           third party's confidential information.
+
+13.      INDEMNIFICATION:
+
+         13.1     Licensee shall indemnify, defend and hold harmless Activision
+                  and its officers, directors, agents and employees from claims,
+                  suits, losses, liabilities, damages or expenses (including
+                  costs of suit and attorneys' fees) (collectively, "Claims")
+                  arising out of Licensee's breach of this Agreement or any
+                  representations or warranties contained herein.
+
+         13.2     Activision shall indemnify, defend and hold harmless Licensee
+                  and its officers, directors, agents and employees from and
+                  against any Claims arising out of Activision's breach of this
+                  Agreement or any representations or warranties contained
+                  herein.
+
+         13.3     If a party requests to be indemnified pursuant to this Section
+                  ("requesting party"), it must give prompt notice of the Claim
+                  to the other party ("requested party") specifying all details
+                  relevant thereto. The requested party may, at its option,
+                  assume the defense of a Claim, in which event the requesting
+                  party will cooperate fully in such defense and may participate
+                  in such defense with counsel of its own choice, provided that
+                  the requesting party will be responsible for all expenses
+                  relating to such separate counsel. If the requested party
+                  assumes the defense of a Claim, its obligation will be limited
+                  to paying the attorneys' fees, costs and expenses associated
+                  with such defense (except as otherwise expressly provided
+                  herein) and holding harmless the requesting party from and
+                  against any judgment paid on account of such Claim or monetary
+                  settlement the requested party has made (with the requesting
+                  party's approval, not to be unreasonably withheld) or
+                  approved. The requesting party may, if necessary or desirable,
+                  join the requested party as a party in any litigation in
+                  respect of a Claim for which indemnity is requested. No
+                  settlement may be made by the requesting party without the
+
+                                       15
+
+
+                  requested party's prior approval. If either party fails to
+                  fulfill any of its material obligations hereunder, the other
+                  party will be deemed excused from its obligations pursuant to
+                  this Section.
+
+14.      M1SCELLANEOUS:
+
+         14.1     No amendment or modification of this Agreement will be made
+                  except by an instrument in writing signed by both parties.
+
+         14.2     This Agreement shall be deemed entered into in Los Angeles
+                  County, California and shall be governed by and interpreted in
+                  accordance with the substantive laws of the State of
+                  California and, if applicable, United States Federal Law. The
+                  parties agree that any dispute arising under this Agreement
+                  shall be resolved exclusively in the state or federal courts
+                  within Los Angeles County, State of California and expressly
+                  consent to jurisdiction therein. The parties agree that
+                  process may be served upon it by mailing such process to its
+                  address for notices as provided in this Agreement. Licensee
+                  irrevocably waives objection to venue or forum in any such
+                  court in California
+
+         14.3     Should any provision of this Agreement be held to be void,
+                  invalid or inoperative, such provision shall be enforced to
+                  the extent possible and the remaining provisions of this
+                  Agreement shall not be affected.
+
+         14.4     The headings of the Sections of this Agreement are for
+                  convenience only and shall not be of any effect in construing
+                  the meanings of the Sections.
+
+         14.5     Licensee's relationship with Activision during the term of
+                  this Agreement shall be that of an independent contractor.
+                  Licensee shall not have, and shall not represent that it has,
+                  any power; right or authority to bind Activision, or to assume
+                  or create any obligation or responsibility, express or
+                  implied, on behalf of Activision or in Activision's name,
+                  except as herein expressly provided. Nothing stated in this
+                  Agreement shall be construed as constituting Licensee and
+                  Activision as partners or as creating the relationships of
+                  employer/employee, franchisor/franchisee, or principal/agent
+                  between the parties. Licensee shall not, without Activision's
+                  prior written consent, register as Activision's distributor or
+                  agent in the Territory.
+
+         14.6     The following Sections shall survive the expiration or
+                  termination of this Agreement 1.3, 8.2, 10, 11.3, 11.4,11.5,
+                  11.6, 11.7, 12,13 and 14.
+
+         14.7     This Agreement, including Schedules A, B, C, D and E, which
+                  are incorporated into this Agreement by this reference,
+                  constitutes the entire understanding between the parties with
+                  respect to the subject matter hereof, superseding all prior
+                  negotiations, preliminary agreements, correspondence or
+                  understandings, written or oral.
+
+         14.8     No waiver of any obligation by any party hereto under this
+                  Agreement shall be effective unless in writing, specifying
+                  such waiver, executed by the party making such waiver. A
+                  waiver by a party hereto of any of its rights or remedies
+                  under this
+
+                                       16
+
+
+                  Agreement on any occasion shall not be a bar to the exercise
+                  of the same right of remedy on any subsequent occasion or of
+                  any other right of remedy at any time.
+
+         14.9     This Agreement may be executed in counterparts, each of which
+                  shall be deemed an original Agreement for all purposes,
+                  including the judicial proof of any of the terms hereof,
+                  provided, however that all such counterparts shall constitute
+                  one and the same Agreement
+
+         14.10    Because the parties hereto have participated in drafting and
+                  negotiating this Agreement, there shall be no presumption
+                  against any party on the ground that such party was
+                  responsible for preparing this Agreement or any part of it.
+
+         14.11    Unless expressly set forth to the contrary, either party's
+                  election of any remedies provided for in this Agreement shall
+                  not be exclusive of any other remedies available hereunder or
+                  otherwise at law or in equity, and all such remedies shall be
+                  deemed to be cumulative.
+
+         14.12    Neither party shall be liable to the other party for any
+                  incidental, consequential, special or punitive damages arising
+                  out of this Agreement or its termination, or the breach of any
+                  of its provisions, whether liability is asserted in contract
+                  or tort (including negligence and strict product liability),
+                  and irrespective of whether the parties have been advised or
+                  been advised of the possibility of any such loss or damage.
+
+         14.13    Should any litigation be commenced among the parties in
+                  relation to this Agreement, the party prevailing in such
+                  litigation shall be entitled, in addition to such other relief
+                  as may be granted, to a reasonable sum for attorneys fees in
+                  connection with such litigation or in a separate action
+                  brought for that purpose.
+
+         14.14    This Agreement may not be assigned in whole or in part by
+                  either party without consent of the other, which consent will
+                  not be unreasonably withheld, and Activision and Licensee may
+                  assign (subject to any rights of the other party) any or all
+                  of such party's rights (but not delegate its obligations)
+                  under this Agreement to any subsidiary or affiliate of such
+                  party. As used in this Section "Subsidiary" means any company
+                  which is controlled, directly or indirectly, by the relevant
+                  party, and "affiliate" means any company which controls, is
+                  controlled by or is under common control with the party, where
+                  "control" means possession of more than (****) of the equity
+                  interest and voting power of such party. Furthermore, subject
+                  to the provisions of Section 11.1.3, either party may assign
+                  this Agreement to any third party which succeeds by operation
+                  of law to, purchases or otherwise acquires substantially all
+                  of the assets of such party and assumes such party's
+                  obligations under this Agreement.
+
+         14.15    Licensee agrees that any material breach or attempted or
+                  threatened breach of this Agreement could result in
+                  irreparable injury to Activision for which there would
+
+--------
+(*) Confidential portion omitted and filed separately with the Securities
+    Exchange Commission.
+
+                                       17
+
+
+
+                  be no adequate remedy at law and consents to injunctive relief
+                  without limiting the applicability of any other remedies.
+
+         14.16    Unless otherwise stated, time shall be of the essence for the
+                  purpose of the performance by Licensee under this Agreement.
+
+15.      NOTICES:
+
+         15.1     All notices, statements and payments to Licensee shall be
+                  delivered to it at the address specified on the first page of
+                  this Agreement, or at such other address as it shall designate
+                  in writing by notice given in accordance with this Section
+                  from time to time. All notices, statements and payments to be
+                  given to Activision shall be delivered to the undersigned at
+                  the address specified on the first page of this Agreement, to
+                  the attention of the Royalty Manager/Contract Administrator,
+                  with a copy to Senior Vice President and General Counsel, or
+                  at such other address as it shall designate in writing, by
+                  notice given in accordance with this Section from time to
+                  time. All notices shall be in writing and shall either be
+                  served by personal delivery, certified mail return receipt
+                  requested, or internationally recognized overnight courier
+                  service, all charges prepaid. Except as otherwise provided
+                  herein, such notices shall be effective only after the actual
+                  receipt thereof.
+
+
+
+
+                                       18
+
+
+
+
+
+
+ACCEPTED AND AGREED TO:
+
+
+ACTIVISION:                                       LICENSEE:
+
+
+Activision Publishing, Inc.                       Majesco Sales, Inc.
+
+
+
+
+
+
+                                   SCHEDULE A
+
+
+"Activision Property" is herein defined as the Windows 95/98 PC CD-ROM English
+language version and any localized versions Activision has created, of the
+entertainment software product entitled Soldier of Fortune, including its title,
+characters, artwork, music, copyrights, designs, animation, sounds, locations,
+catch phrases, dialogues, stories, storyline, software program, audio-visual
+display, concept, tradename, trademarks, logos and any other creative elements,
+subject to the following limitations:
+
+(1) The Product shall constitute for purposes of this Agreement a direct port
+(as defined below) of the original version of the Activision Property. "Direct
+port" of the Activision Property shall mean that the Product (a) is to be
+marketed under substantially the same title as the Activision Property, (b)
+shall contain materially the same basic story lines and concepts as the
+Activision Property, (c) not require any additional production services from
+Activision, and (d) the changes made to the original version of the Activision
+Property and the conversion thereof are such as only are reasonably required to
+accommodate the capabilities and requirements of the Sony PlayStation 2 console
+platform.
+
+(2) The Product will be in an action/adventure genre, which may contain elements
+of combat, strategy, fighting, shooting and use of other weapons and various
+simulations. The parties agree that; while Activision reserves the final right
+to determine, among other matters, the elements of the Product, the central
+characters of the Product will not be portrayed in the manner of a parody or
+satire.
+
+(3) Licensee shall not use any of the following names as names of any characters
+in the Product: Caristo, Carter, ▇▇▇▇▇▇▇▇▇▇, ▇▇▇▇▇▇▇ and ▇▇▇▇▇▇.
+
+                                   SCHEDULE B
+
+The "Territory" is herein defined as worldwide.
+
+                                   SCHEDULE C
+
+The Term shall commence on the Effective Date and will terminate as of the date
+which is two (2) years following the Effective Date,
+
+                                   SCHEDULE D
+
+Advance:
+
+(****), payable as follows: (a) (****) immediately upon execution of this
+Agreement, but in no event later than June 30, 2000; (b) (****) within (****)
+following the Effective Date; and (c) (****) within (****) following the
+Effective Date.
+
+
+
+--------
+(*) Confidential portion omitted and filed separately with the Securities
+    Exchange Commission.
+
+
+
+Royalties
+
+Royalties payable to Activision shall be calculated as a percentage of
+Licensee's Net Receipts (as defined below) as follows: (a) (****) with respect
+to the first (****) of the Product sold or licensed by Licensee, but in no event
+shall the Royalty payable to Activision be less than (****) per unit,
+irrespective of the wholesale price of the Product or any deductions from gross
+receipts; (b) (****) with respect to (****) units of the Product sold or
+licensed by Licensee, but in no event shall the Royalty payable to Activision be
+less than (****) per unit, irrespective of the wholesale price of the Product or
+any deductions from gross receipts; and (c) (****) with respect to units above
+(****) sold or licensed by Licensee.
+
+Definition of "Net Receipts"
+
+For purposes of this Schedule D, "Net Receipts" means the gross receipts
+actually received by Licensee from all sales and licenses of the Product, less
+actual amounts paid by Licensee for taxes on sales or licenses of the Product,
+such as sales, use, excise and other taxes.
+
+                                   SCHEDULE E
+
+                            CONFIDENTIALITY AGREEMENT
+
+I have been engaged to work on the conversion of Activision Publishing, Inc.'s
+("Activision") Windows 95-98-based entertainment software product titled Soldier
+of Fortune, to be converted for use with the Sony PlayStation 2 operating system
+(such conversion being hereinafter referred to as the "Product"). I acknowledge
+that I may have access to confidential information relating to the products and
+business activities of Activision. I understand that disclosure of that
+information to third parties would cause substantial detriment to Activision's
+on-going business.
+
+I agree that I will not at any time for my own benefit or, for the benefit of a
+third party or disclose to any third party (except as necessary in the ordinary
+course of my duties in developing the Product), any of the following
+information: (1) trade secrets of confidential information relating to
+Activision's products, processes, know-how, machines designs, drawings,
+software, formulas, test data, marketing data, business plan, business
+strategies, employees, negotiations, contracts, patents or patent applications
+(including the status of their prosecution), and (2) any other confidential
+information relating to any of Activision's clients, customers, consultants,
+licensees or affiliates.
+
+I acknowledge that all of the foregoing information is proprietary to Activision
+and that it is a valuable and unique asset of Activision. I understand, however,
+that any information that is already public knowledge or that was known to me
+before I signed this Confidentiality Agreement is not covered by this
+Confidentiality Agreement.
+
+
+----------------------------------------------------
+Signature                               Date
+
+
+----------------------------------------------------
+Name (printed or typed)
+
+
+
+                                       

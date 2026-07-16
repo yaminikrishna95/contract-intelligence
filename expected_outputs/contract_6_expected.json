@@ -1,0 +1,26 @@
+{
+  "agreement_type": "lease",
+  "effective_date": "[verify from source — header 'as of' date]",
+  "parties": [
+    {"name": "▇▇▇▇ ▇▇▇▇▇ ▇▇▇▇▇▇▇ LLC", "role": "Landlord"},
+    {"name": "Competitive Technologies, Inc.", "role": "Tenant"}
+  ],
+  "term_length": "36 months",
+  "governing_law": "State of Connecticut",
+  "payment_terms": "Monthly base rent at escalating per-square-foot rates over the lease term, plus electrical inclusion charge per square foot, plus tenant's proportionate share of operating expense and tax increases above base year.",
+  "termination_clauses": [
+    "Rent default",
+    "Non-rent default",
+    "Premises abandoned",
+    "Death or disability of guarantor",
+    "Execution or attachment against tenant",
+    "Building damage in last 12 months of term",
+    "Casualty rendering premises untenantable",
+    "Substantial building damage requiring restoration",
+    "Tenant bankruptcy or insolvency",
+    "Partial subletting",
+    "Assignment or substantial subletting",
+    "Eminent domain taking of premises",
+    "Eminent domain taking of other building portion"
+  ]
+}

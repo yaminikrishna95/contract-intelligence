@@ -40,7 +40,7 @@ def extract_contract(contract_text: str) -> tuple[Contract, dict]:
     }
     
     response = client.messages.create(
-        model="claude-fake-99",
+        model="claude-haiku-4-5",
         max_tokens=2048,
         temperature=0.0,
         system="You are an extractor of structured data from contracts.",

@@ -1,0 +1,15 @@
+{
+  "agreement_type": "licensing",
+  "effective_date": "2012-08-05",
+  "parties": [
+    {"name": "VERIFY SMART CORP", "role": "Licensor"},
+    {"name": "ASSURED MOBILE TECHNOLOGIES LLC.", "role": "Licensee"}
+  ],
+  "term_length": "20 years",
+  "governing_law": "State of Nevada",
+  "payment_terms": "Tiered upfront license fee paid in milestone installments over 12 months plus equity issuance, followed by 2.5% quarterly royalty on gross sales.",
+  "termination_clauses": [
+    "Automatic termination at the end of the 20-year term",
+    "Royalty obligations cease upon change of control of the Licensor"
+  ]
+}

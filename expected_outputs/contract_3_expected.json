@@ -1,0 +1,20 @@
+{
+  "agreement_type": "employment",
+  "effective_date": "2013-06-01",
+  "parties": [
+    {"name": "Synergy Resources Corporation", "role": "Employer"}
+  ],
+  "term_length": "3 years",
+  "governing_law": "State of Colorado",
+  "payment_terms": "Annual salary plus performance-based bonus tied to well-production milestones (capped annually).",
+  "termination_clauses": [
+    "Death",
+    "Disability",
+    "Conviction of qualifying crime",
+    "Refusal of lawful Board directions",
+    "Gross negligence",
+    "Material breach",
+    "Constructive termination",
+    "Change of control resignation"
+  ]
+}
